@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <script>
+            fetch('./navbar.html')
+            .then((response) => {
+                return response.text();
+            })
+            .then((html) => {
+                document.querySelector('#navbar').innerHTML = html.    
+            });
+        </script>
+    </head>
+    <body>
+        <div id="navbar"></div>
+    </body>
+</html>
