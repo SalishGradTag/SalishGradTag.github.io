@@ -1,44 +1,20 @@
 body {
   margin: 0;
   padding: 0px;
-  font-size: 12;
-  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#navbar {
-  overflow: hidden;
-  position: sticky;
-  top: 0;
-  background-color: #000;
-  padding: 0;
-  width: 100%;
-  box-shadow: 0px 12px 10px 0px #0000004d;
+.content {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 25%;
+  margin-right: 25%;
+  min-height: 100vh;
 }
-
-#navbar navtext {
-  margin-left: 0%;
-  display: block;
-  color: #fff;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  
-}
-
-/* Left side of navbar*/
-navtext#name{
-    font-size: 28px;
-    font-family: Georgia, serif;
-    opacity: 1;
-    float: left;
-}
-
-/* Right side of navbar*/
-navtext#right{
-  float: right;
-}
-
-navtext#right:hover {
-  color: #000;
-  background-color: #fff;
+@media only screen and (max-width: 600px) {
+  .content {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
 }

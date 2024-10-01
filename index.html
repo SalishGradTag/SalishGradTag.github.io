@@ -3,17 +3,43 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="./src/style.css"/>
+
+        <!-- Navigation Bar -->
+        <link rel="stylesheet" type="text/css" href="./src/navbar_style.css"/>
         <script>
             fetch('./src/navbar.html')
             .then((response) => {
+                
                 return response.text();
             })
             .then((html) => {
-                document.querySelector('#navbar').innerHTML = html 
+                document.querySelector('#navbar').innerHTML = html
+            });
+        </script>
+
+        <!-- Footer -->
+        <link rel="stylesheet" type="text/css" href="./src/footer_style.css"/>
+        <script>
+            fetch('./src/footer.html')
+            .then((response) => {
+                
+                return response.text();
+            })
+            .then((html) => {
+                document.querySelector('#footer').innerHTML = html
             });
         </script>
     </head>
     <body>
         <div id="navbar"></div>
+        
+        <div class="content">
+            <a>Grad Tag for the class of 2024.</a>
+            <br> <br> <br>
+
+            <a>This week's immunity item:</a><br>
+        </div>
+
+        <div id="footer"></div>
     </body>
 </html>
