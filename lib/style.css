@@ -1,4 +1,12 @@
+:root {
+  --PrimaryColor: #ffffff;
+  --SecondaryColor: #0000FF;
+  --PrimaryText: #1e186b;
+}
+
 body {
+  background-color: #521919;
+  color: white;
   margin: 0;
   padding: 0px;
   font-size: 30;
