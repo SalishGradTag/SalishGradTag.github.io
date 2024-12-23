@@ -1,6 +1,6 @@
 #footer {
   overflow: hidden;
-  background-color: #000;
+  background-color: #521919;
   color: #fff;
   padding: 0;
   padding-top: 10px;
@@ -13,4 +13,8 @@
   float: left;
   margin-bottom: 5%;
   margin-left: 5%;
+}
+
+#footerwrapper a:link {
+  color: #f81e1ea4;
 }
