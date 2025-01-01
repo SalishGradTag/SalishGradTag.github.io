@@ -6,6 +6,7 @@ body {
 }
 
 .content {
+  vertical-align: middle;
   justify-content: center;
   min-height: 100vh;
   display: flex;

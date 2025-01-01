@@ -11,12 +11,7 @@ game_log = pd.read_excel(game_path)
 #print(player_data)
 
 def compare(p, q):
-    if (p["Ranking"] == q["Ranking"]){
-        
-    }
-    else{
-        return p["Ranking"] < q["Ranking"]
-    }
+    p["Ranking"] < q["Ranking"]
 
 rankings = []
 
