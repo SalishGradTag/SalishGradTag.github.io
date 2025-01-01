@@ -1,7 +1,7 @@
 #footer {
   overflow: hidden;
-  background-color: #521919;
-  color: #fff;
+  background-color: var(--PrimaryColor);
+  color: var(--PrimaryText);
   padding: 0;
   padding-top: 10px;
   width: 100%;

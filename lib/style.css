@@ -1,4 +1,15 @@
+:root {
+  --PrimaryColor: #ffffff;
+  --SecondaryColor: #0000FF;
+  --PrimaryText: #000000;
+}
+
 body {
+  background-image: url('../Images/TagManMultiLite.png');
+  background-attachment: fixed;
+  background-size: 40px;
+  background-color: #521919;
+  color: white;
   margin: 0;
   padding: 0px;
   font-size: 30;
@@ -6,10 +17,14 @@ body {
 }
 
 .content {
+  display: flex;
   vertical-align: middle;
   justify-content: center;
+  align-items: center;
+  text-align: center;
   min-height: 100vh;
   display: flex;
+  font-size: 35px;
 }
 @media only screen and (max-width: 600px) {
   .content {
