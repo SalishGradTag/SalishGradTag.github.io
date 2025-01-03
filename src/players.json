@@ -1,0 +1,54 @@
+{
+    "names": [
+        "Yash Jain",
+        "Harangad Sidhu",
+        "Justin Tran",
+        "Logan Singh"
+    ],
+    "players": {
+        "Logan Singh": {
+            "Name": "Logan Singh",
+            "Email": "logan.singh@surreyschools.ca",
+            "HandleIG": "test2",
+            "Photo": "20241204_221947_Logan Singh.jpg",
+            "Ranking": -1,
+            "Alive": false,
+            "Tags": 0,
+            "Last Tagged": 1735516800,
+            "Rank": 3
+        },
+        "Yash Jain": {
+            "Name": "Yash Jain",
+            "Email": "yash.jain@surreyschools.ca",
+            "HandleIG": "test1",
+            "Photo": "",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 2,
+            "Last Tagged": 1704067200,
+            "Rank": 0
+        },
+        "Harangad Sidhu": {
+            "Name": "Harangad Sidhu",
+            "Email": "harangad.sidhu@surreyschools.ca",
+            "HandleIG": "test3",
+            "Photo": "IMG_5471_Harangad Sidhu.jpeg",
+            "Ranking": -1,
+            "Alive": false,
+            "Tags": 1,
+            "Last Tagged": 1704067200,
+            "Rank": 1
+        },
+        "Justin Tran": {
+            "Name": "Justin Tran",
+            "Email": "j12.tran@surreyschools.ca",
+            "HandleIG": "test4",
+            "Photo": "image_Justin Tran.jpg",
+            "Ranking": -1,
+            "Alive": false,
+            "Tags": 0,
+            "Last Tagged": 1735603200,
+            "Rank": 2
+        }
+    }
+}

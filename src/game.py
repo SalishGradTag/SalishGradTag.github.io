@@ -1,5 +1,7 @@
 import random
 import json
+import urllib.parse
+import math
 
 import pandas as pd
 players_path = "src/player_data.xlsx"
@@ -10,24 +12,57 @@ game_log = pd.read_excel(game_path)
 
 #print(player_data)
 
-def compare(p, q):
-    p["Ranking"] < q["Ranking"]
+players = {}
+names = []
 
-rankings = []
+def getPath(path):
+    if (type(path)==float and math.isnan(path)):
+        return ""
+    return urllib.parse.unquote(path).split("/")[-1]
 
 for index, row in player_data.iterrows():
-    #print("hhg", *row)
-    rankings.append ({
+    names.append(row["Name"])
+    players[row["Name"]] = {
         "Name" : row["Name"],
         "Email" : row["Email"],
         "HandleIG" : row["HandleIG"],
-        "Photo" : row["Photo"],
+        "Photo" : getPath(row["Photo"]),
         "Ranking" : -1,
-        "Tags" : 0
-        "Last Tagged": 
-    })
+        "Alive" : True,
+        "Tags" : 0,
+        "Last Tagged": 0
+        
+    }
 
-sort(rankings, )
+for index, row in game_log.iterrows():
+    if (row["Command"]=="Tag"):
+        players[row["Person 1"]]["Tags"]+=1
+        players[row["Person 1"]]["Last Tagged"] = row["Unix"]
+        players[row["Person 2"]]["Alive"] = False
+        players[row["Person 2"]]["Last Tagged"] = row["Unix"]
 
-with open('src/rankings.json', 'w', encoding='utf-8') as f:
-    json.dump(rankings, f, ensure_ascii=False, indent=4)
+# Stable Sort
+names.sort(key=lambda x:players[x]["Last Tagged"], reverse=True)
+names.sort(key=lambda x:players[x]["Tags"], reverse=True)
+names.sort(key=lambda x:players[x]["Alive"], reverse=True)
+
+rank = 0
+
+for i in range(len(names)):
+    cur = names[i] 
+    if (i>0):
+        prev = names[i-1]
+        if (players[cur]["Alive"] == players[prev]["Alive"] and
+            players[cur]["Tags"] == players[prev]["Tags"] and
+            players[cur]["Last Tagged"] == players[prev]["Last Tagged"]):
+            rank-=1
+    players[cur]["Rank"] = rank
+    rank+=1
+
+json_data = {
+    "names" : names,
+    "players" : players
+}
+
+with open('src/players.json', 'w', encoding='utf-8') as f:
+    json.dump(json_data, f, ensure_ascii=False, indent=4)

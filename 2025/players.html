@@ -29,10 +29,20 @@
                 document.querySelector('#footer').innerHTML = html
             });
         </script>
+
+        <!-- Leaderboard -->
+        <script>
+            var myImages = '';
+            for(var i = 0; i < json.length; i++){
+                myImages += '<img src=" '+json[i]['img_nm']+'" />';
+            }
+            document.getElementById('Leaderboard').innerHTML = myImages;
+        </script>
     </head>
     <body>
         <div id="navbar"></div>
         
+        <div id="Leaderboard"></div>
 
         <div id="footer"></div>
     </body>
