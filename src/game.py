@@ -2,8 +2,10 @@ import random
 import json
 import urllib.parse
 import math
+import os
 
 import pandas as pd
+
 players_path = "src/player_data.xlsx"
 player_data = pd.read_excel(players_path)
 
@@ -50,6 +52,7 @@ rank = 0
 
 for i in range(len(names)):
     cur = names[i] 
+    rank+=1
     if (i>0):
         prev = names[i-1]
         if (players[cur]["Alive"] == players[prev]["Alive"] and
@@ -57,7 +60,6 @@ for i in range(len(names)):
             players[cur]["Last Tagged"] == players[prev]["Last Tagged"]):
             rank-=1
     players[cur]["Rank"] = rank
-    rank+=1
 
 json_data = {
     "names" : names,
@@ -66,3 +68,8 @@ json_data = {
 
 with open('src/players.json', 'w', encoding='utf-8') as f:
     json.dump(json_data, f, ensure_ascii=False, indent=4)
+
+for f in os.listdir("./photos"):
+    r = f.replace(" ","")
+    if( r != f):
+        os.rename("./photos/"+f,"./photos/"+r)

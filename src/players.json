@@ -15,7 +15,7 @@
             "Alive": false,
             "Tags": 0,
             "Last Tagged": 1735516800,
-            "Rank": 3
+            "Rank": 4
         },
         "Yash Jain": {
             "Name": "Yash Jain",
@@ -26,7 +26,7 @@
             "Alive": true,
             "Tags": 2,
             "Last Tagged": 1704067200,
-            "Rank": 0
+            "Rank": 1
         },
         "Harangad Sidhu": {
             "Name": "Harangad Sidhu",
@@ -37,7 +37,7 @@
             "Alive": false,
             "Tags": 1,
             "Last Tagged": 1704067200,
-            "Rank": 1
+            "Rank": 2
         },
         "Justin Tran": {
             "Name": "Justin Tran",
@@ -48,7 +48,7 @@
             "Alive": false,
             "Tags": 0,
             "Last Tagged": 1735603200,
-            "Rank": 2
+            "Rank": 3
         }
     }
 }
