@@ -16,6 +16,13 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.center {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .content {
   display: flex;
   vertical-align: middle;
@@ -26,9 +33,42 @@ body {
   display: flex;
   font-size: 35px;
 }
+
 @media only screen and (max-width: 600px) {
   .content {
     margin-left: 5%;
     margin-right: 5%;
   }
+}
+
+#leaderboard_container {
+  width: 90%;
+  background-color: #ffffff;
+  padding: 4%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-column-gap: 4%;
+  grid-row-gap: 4%;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 400px) {
+  #leaderboard_container {
+    grid-template-columns: auto auto;
+  }
+}
+
+.rules {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 10px;
+}
+
+.leaderboard_box{
+  color:#000000;
+  font-size: 12px;
+  width: 100px;
+  text-align: center;
+  
+  
 }

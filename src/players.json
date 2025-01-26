@@ -1,5 +1,8 @@
 {
     "names": [
+
+    ],
+    "names2": [
         "Yash Jain",
         "Harangad Sidhu",
         "Justin Tran",
@@ -10,7 +13,7 @@
             "Name": "Logan Singh",
             "Email": "logan.singh@surreyschools.ca",
             "HandleIG": "test2",
-            "Photo": "20241204_221947_Logan Singh.jpg",
+            "Photo": "20241204_221947_LoganSingh.jpg",
             "Ranking": -1,
             "Alive": false,
             "Tags": 0,
@@ -21,7 +24,7 @@
             "Name": "Yash Jain",
             "Email": "yash.jain@surreyschools.ca",
             "HandleIG": "test1",
-            "Photo": "",
+            "Photo": "20241204_221947_LoganSingh.jpg",
             "Ranking": -1,
             "Alive": true,
             "Tags": 2,
@@ -32,7 +35,7 @@
             "Name": "Harangad Sidhu",
             "Email": "harangad.sidhu@surreyschools.ca",
             "HandleIG": "test3",
-            "Photo": "IMG_5471_Harangad Sidhu.jpeg",
+            "Photo": "IMG_5471_HarangadSidhu.jpeg",
             "Ranking": -1,
             "Alive": false,
             "Tags": 1,
@@ -43,7 +46,7 @@
             "Name": "Justin Tran",
             "Email": "j12.tran@surreyschools.ca",
             "HandleIG": "test4",
-            "Photo": "image_Justin Tran.jpg",
+            "Photo": "image_JustinTran.jpg",
             "Ranking": -1,
             "Alive": false,
             "Tags": 0,

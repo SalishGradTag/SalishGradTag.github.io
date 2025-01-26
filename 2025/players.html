@@ -30,20 +30,30 @@
             });
         </script>
 
-        <!-- Leaderboard -->
         <script>
-            var myImages = '';
-            for(var i = 0; i < json.length; i++){
-                myImages += '<img src=" '+json[i]['img_nm']+'" />';
+            async function loadPhotos() {
+                const response = await fetch('../src/players.json');
+                const data = await response.json();
+                const names = data["names"];
+                const players = data["players"];
+                
+                var myImages = '';
+                for(var i = 0; i < names.length; i++){
+                    console.log(names[i]);
+                    myImages += '<div class="leaderboard_box"><img style="width:100px;height:100px;" src="../photos/' + players[names[i]]["Photo"] + '"><br>#' + players[names[i]]["Rank"] + '<br>' + names[i] + '</div>';
+                }
+                document.getElementById('leaderboard_container').innerHTML = myImages;
+
+                console.log(myImages); 
             }
-            document.getElementById('Leaderboard').innerHTML = myImages;
+            loadPhotos(); 
         </script>
     </head>
     <body>
         <div id="navbar"></div>
-        
-        <div id="Leaderboard"></div>
-
-        <div id="footer"></div>
+        <div class="center">
+            <div id="leaderboard_container"></div>
+        </div>
+        <div id="footer">
     </body>
 </html>

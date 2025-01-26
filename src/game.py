@@ -20,7 +20,7 @@ names = []
 def getPath(path):
     if (type(path)==float and math.isnan(path)):
         return ""
-    return urllib.parse.unquote(path).split("/")[-1]
+    return (urllib.parse.unquote(path).split("/")[-1]).replace(" ", "")
 
 for index, row in player_data.iterrows():
     names.append(row["Name"])
@@ -32,8 +32,7 @@ for index, row in player_data.iterrows():
         "Ranking" : -1,
         "Alive" : True,
         "Tags" : 0,
-        "Last Tagged": 0
-        
+        "Last Tagged": 0 
     }
 
 for index, row in game_log.iterrows():
@@ -68,8 +67,3 @@ json_data = {
 
 with open('src/players.json', 'w', encoding='utf-8') as f:
     json.dump(json_data, f, ensure_ascii=False, indent=4)
-
-for f in os.listdir("./photos"):
-    r = f.replace(" ","")
-    if( r != f):
-        os.rename("./photos/"+f,"./photos/"+r)
