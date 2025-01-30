@@ -1,57 +1,66 @@
 {
     "names": [
-
-    ],
-    "names2": [
-        "Yash Jain",
-        "Harangad Sidhu",
-        "Justin Tran",
-        "Logan Singh"
+        "Kai Douangchanh",
+        "Jakob Teichrieb",
+        "Jason Puchniak",
+        "Jaideep Nandha",
+        "Himmit Virk"
     ],
     "players": {
-        "Logan Singh": {
-            "Name": "Logan Singh",
-            "Email": "logan.singh@surreyschools.ca",
-            "HandleIG": "test2",
-            "Photo": "20241204_221947_LoganSingh.jpg",
-            "Ranking": -1,
-            "Alive": false,
-            "Tags": 0,
-            "Last Tagged": 1735516800,
-            "Rank": 4
-        },
-        "Yash Jain": {
-            "Name": "Yash Jain",
-            "Email": "yash.jain@surreyschools.ca",
-            "HandleIG": "test1",
-            "Photo": "20241204_221947_LoganSingh.jpg",
+        "Kai Douangchanh": {
+            "Name": "Kai Douangchanh",
+            "Email": "k.douangchanh@surreyschools.ca",
+            "HandleIG": "kaiwd07",
+            "Photo": "IMG_0616_KaiDouangchanh.jpeg",
             "Ranking": -1,
             "Alive": true,
-            "Tags": 2,
-            "Last Tagged": 1704067200,
+            "Tags": 0,
+            "Last Tagged": 0,
             "Rank": 1
         },
-        "Harangad Sidhu": {
-            "Name": "Harangad Sidhu",
-            "Email": "harangad.sidhu@surreyschools.ca",
-            "HandleIG": "test3",
-            "Photo": "IMG_5471_HarangadSidhu.jpeg",
+        "Jakob Teichrieb": {
+            "Name": "Jakob Teichrieb",
+            "Email": "j.teichrieb@surreyschools.ca",
+            "HandleIG": "mr_jaakob",
+            "Photo": "IMG_5641_JakobTeichrieb.jpeg",
             "Ranking": -1,
-            "Alive": false,
-            "Tags": 1,
-            "Last Tagged": 1704067200,
-            "Rank": 2
-        },
-        "Justin Tran": {
-            "Name": "Justin Tran",
-            "Email": "j12.tran@surreyschools.ca",
-            "HandleIG": "test4",
-            "Photo": "image_JustinTran.jpg",
-            "Ranking": -1,
-            "Alive": false,
+            "Alive": true,
             "Tags": 0,
-            "Last Tagged": 1735603200,
-            "Rank": 3
+            "Last Tagged": 0,
+            "Rank": 1
+        },
+        "Jason Puchniak": {
+            "Name": "Jason Puchniak",
+            "Email": "j.puchniak@surreyschools.ca",
+            "HandleIG": "Gob-Trap/Jason.chad.p",
+            "Photo": "inbound7470585376347610862_JasonPuchniak.jpg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "Rank": 1
+        },
+        "Jaideep Nandha": {
+            "Name": "Jaideep Nandha",
+            "Email": "jaideep.nandha@surreyschools.ca",
+            "HandleIG": "jainandha_",
+            "Photo": "IMG_3552_JaideepNandha.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "Rank": 1
+        },
+        "Himmit Virk": {
+            "Name": "Himmit Virk",
+            "Email": "himmit.virk@surreyschools.ca",
+            "HandleIG": "freezey6090",
+            "Photo": "",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "Rank": 1
         }
     }
 }
