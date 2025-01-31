@@ -19,7 +19,7 @@ names = []
 
 def getPath(path):
     if (type(path)==float and math.isnan(path)):
-        return ""
+        return "default.png"
     return (urllib.parse.unquote(path).split("/")[-1]).replace(" ", "")
 
 for index, row in player_data.iterrows():

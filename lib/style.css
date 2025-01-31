@@ -1,7 +1,7 @@
 :root {
   --PrimaryColor: #ffffff;
   --SecondaryColor: #0000FF;
-  --PrimaryText: #000000;
+  --PrimaryText: #000;
 }
 
 body {
@@ -43,7 +43,7 @@ body {
 
 #leaderboard_container {
   width: 90%;
-  background-color: #ffffff;
+  background-color: #ffffff00;
   padding: 4%;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
@@ -69,6 +69,8 @@ body {
   font-size: 12px;
   width: 100px;
   text-align: center;
+  background-color: #ffffff;
+  padding: 5%;
   
   
 }
