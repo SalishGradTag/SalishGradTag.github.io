@@ -41,7 +41,10 @@
                 var myImages = '';
                 for(var i = 0; i < names.length; i++){
                     console.log(names[i]);
-                    myImages += '<div class="leaderboard_box"><img style="width:100px;" src="../photos/' + players[names[i]]["Photo"] + '"><br>#' + players[names[i]]["Rank"] + '<br>' + names[i] + '</div>';
+
+                    myImages += '<div class="leaderboard_box">' + players[names[i]]["HTML"] + '</div>';
+                    
+                    //myImages += '<div class="leaderboard_box">' <img style="width:100px;" src="../photos/' + players[names[i]]["Photo"] + '"><br>#' + players[names[i]]["Rank"] + '<br>' + names[i] + '</div>';
                 }
                 document.getElementById('leaderboard_container').innerHTML = myImages;
 

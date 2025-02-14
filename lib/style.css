@@ -14,23 +14,25 @@ body {
   padding: 0px;
   font-size: 30;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-height: fit-content;
 }
 
 .center {
+  max-height: fit-content;
   padding: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: scroll;
 }
 
+
 .content {
-  display: flex;
   vertical-align: middle;
   justify-content: center;
   align-items: center;
   text-align: center;
   min-height: 100vh;
-  display: flex;
   font-size: 35px;
 }
 
@@ -48,13 +50,13 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   grid-column-gap: 4%;
-  grid-row-gap: 4%;
+  grid-row-gap: 2lh;
   justify-content: center;
 }
 
 @media only screen and (max-width: 400px) {
   #leaderboard_container {
-    grid-template-columns: auto auto;
+    grid-template-columns: auto-fit auto-fit;
   }
 }
 

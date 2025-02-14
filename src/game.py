@@ -33,7 +33,8 @@ for index, row in player_data.iterrows():
         "Alive" : True,
         "Tags" : 0,
         "Last Tagged": 0,
-        "Target": "--"
+        "HTML" : "",
+        "Target": ""
     }
 
 for index, row in game_log.iterrows():
@@ -43,10 +44,19 @@ for index, row in game_log.iterrows():
         players[row["Person 2"]]["Alive"] = False
         players[row["Person 2"]]["Last Tagged"] = row["Unix"]
 
+    #' + players[names[i]]["Rank"] + '<br>' + names[i];
+
 # Stable Sort
 names.sort(key=lambda x:players[x]["Last Tagged"], reverse=True)
 names.sort(key=lambda x:players[x]["Tags"], reverse=True)
 names.sort(key=lambda x:players[x]["Alive"], reverse=True)
+
+for name in names:
+    players[name]["HTML"] = "<img style='width:100px;' src='../photos/" + players[name]["Photo"] + "'><br>"
+    players[name]["HTML"] += players[name]["Name"]
+    if (players[name]["Tags"]>0):
+        players[name]["HTML"] += "Rank:" + players[name]["Rank"] + "<br>"
+        players[name]["HTML"] += players[name]["Tags"] + "Tags"
 
 rank = 0
 
