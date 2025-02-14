@@ -33,7 +33,8 @@ for index, row in player_data.iterrows():
         "Alive" : True,
         "Tags" : 0,
         "Last Tagged": 0,
-        "HTML" : ""
+        "HTML" : "",
+        "Target": ""
     }
 
 for index, row in game_log.iterrows():
