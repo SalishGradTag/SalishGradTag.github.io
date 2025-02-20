@@ -109,7 +109,35 @@
         "Yohann Balogun",
         "Rylee Mason",
         "Jasmine Robertson-Zhou",
-        "Marissa Lecian"
+        "Marissa Lecian",
+        "Jared Mackie",
+        "Samantha Rego",
+        "Nicholas Kelly",
+        "Fatima Hassan",
+        "Xavier Smith",
+        "Joanna Perreault",
+        "Mateya Baumer",
+        "Amani Shamoon",
+        "Parinoor Bal",
+        "Navleen Purewal",
+        "Mia Ewasiuk",
+        "Johnny Xing",
+        "Kennedy Grayson",
+        "Amirah Kajla",
+        "William Pham",
+        "Aayan Chowdhury",
+        "Ulises Romero",
+        "Ethan Darby",
+        "Christian Che",
+        "Makayla Papp",
+        "Keira Watkins",
+        "Arissa Chowdhury",
+        "Harbeen Sidhu",
+        "Kyleigh Pope",
+        "Grace Simmons",
+        "Jaeden Potter",
+        "Paula Jerusalem",
+        "Bella Fuller"
     ],
     "players": {
         "Kai Douangchanh": {
@@ -122,6 +150,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0616_KaiDouangchanh.jpeg'><br>Kai Douangchanh",
+            "Target": "",
             "Rank": 1
         },
         "Jakob Teichrieb": {
@@ -134,6 +163,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_5641_JakobTeichrieb.jpeg'><br>Jakob Teichrieb",
+            "Target": "",
             "Rank": 1
         },
         "Jason Puchniak": {
@@ -146,6 +176,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/inbound7470585376347610862_JasonPuchniak.jpg'><br>Jason Puchniak",
+            "Target": "",
             "Rank": 1
         },
         "Jaideep Nandha": {
@@ -158,6 +189,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_3552_JaideepNandha.jpeg'><br>Jaideep Nandha",
+            "Target": "",
             "Rank": 1
         },
         "Himmit Virk": {
@@ -170,18 +202,20 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Himmit Virk",
+            "Target": "",
             "Rank": 1
         },
         "Justin Tran": {
             "Name": "Justin Tran",
             "Email": "j12.tran@surreyschools.ca",
             "HandleIG": "Chibi_Xiao",
-            "Photo": "image_JustinTran.jpg",
+            "Photo": "default.png",
             "Ranking": -1,
             "Alive": true,
             "Tags": 0,
             "Last Tagged": 0,
-            "HTML": "<img style='width:100px;' src='../photos/image_JustinTran.jpg'><br>Justin Tran",
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Justin Tran",
+            "Target": "",
             "Rank": 1
         },
         "Aron Yu": {
@@ -194,6 +228,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_7119_AronYu.jpeg'><br>Aron Yu",
+            "Target": "",
             "Rank": 1
         },
         "Makaylah Brathwaite": {
@@ -206,6 +241,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Makaylah Brathwaite",
+            "Target": "",
             "Rank": 1
         },
         "Josh Harris": {
@@ -218,6 +254,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2851_JoshHarris.jpeg'><br>Josh Harris",
+            "Target": "",
             "Rank": 1
         },
         "Riya Bhangu": {
@@ -230,6 +267,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Riya Bhangu",
+            "Target": "",
             "Rank": 1
         },
         "Sydney Marshall": {
@@ -242,6 +280,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Sydney Marshall",
+            "Target": "",
             "Rank": 1
         },
         "Mya Wiggins": {
@@ -254,6 +293,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Mya Wiggins",
+            "Target": "",
             "Rank": 1
         },
         "Zaima Salman": {
@@ -266,6 +306,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Zaima Salman",
+            "Target": "",
             "Rank": 1
         },
         "Shaya Venktes": {
@@ -278,6 +319,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Shaya Venktes",
+            "Target": "",
             "Rank": 1
         },
         "Alex Skuce": {
@@ -290,6 +332,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_8896_AlexSkuce.jpg'><br>Alex Skuce",
+            "Target": "",
             "Rank": 1
         },
         "Ruby Clunas": {
@@ -302,6 +345,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_5025_RubyClunas.jpeg'><br>Ruby Clunas",
+            "Target": "",
             "Rank": 1
         },
         "Alex Zhou": {
@@ -314,6 +358,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/2537530A-13E0-4151-B952-BD44EBEBA77F_AlexZhou.jpeg'><br>Alex Zhou",
+            "Target": "",
             "Rank": 1
         },
         "Amaan Ali": {
@@ -326,6 +371,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/20250131_234521_AmaanAli.jpg'><br>Amaan Ali",
+            "Target": "",
             "Rank": 1
         },
         "Katie Stubbings": {
@@ -338,6 +384,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4889_KatieStubbings.jpeg'><br>Katie Stubbings",
+            "Target": "",
             "Rank": 1
         },
         "Evan Stubbings": {
@@ -350,6 +397,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_1390_EvanStubbings.jpeg'><br>Evan Stubbings",
+            "Target": "",
             "Rank": 1
         },
         "Sophie Baker": {
@@ -362,6 +410,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_9083_SophieBaker.jpeg'><br>Sophie Baker",
+            "Target": "",
             "Rank": 1
         },
         "EJ Galang": {
@@ -374,6 +423,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4153_EJGalang.jpeg'><br>EJ Galang",
+            "Target": "",
             "Rank": 1
         },
         "Jayde Forster": {
@@ -386,6 +436,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_20241217_091627_952_JaydeForster.jpg'><br>Jayde Forster",
+            "Target": "",
             "Rank": 1
         },
         "Cora Walshe": {
@@ -398,6 +449,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_9116_CoraWalshe.jpeg'><br>Cora Walshe",
+            "Target": "",
             "Rank": 1
         },
         "Ted Harrison": {
@@ -410,6 +462,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_3214_TedHarrison.jpeg'><br>Ted Harrison",
+            "Target": "",
             "Rank": 1
         },
         "Armaani Kaila": {
@@ -422,6 +475,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Armaani Kaila",
+            "Target": "",
             "Rank": 1
         },
         "Paris Pitt": {
@@ -434,6 +488,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_7815_ParisPitt.jpeg'><br>Paris Pitt",
+            "Target": "",
             "Rank": 1
         },
         "Krishalee Leeme": {
@@ -446,6 +501,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Krishalee Leeme",
+            "Target": "",
             "Rank": 1
         },
         "Dominic De Leon": {
@@ -458,6 +514,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_1942_DominicDeLeon.jpeg'><br>Dominic De Leon",
+            "Target": "",
             "Rank": 1
         },
         "Eric Mitchell": {
@@ -470,6 +527,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/Snapchat-282728234_EricMitchell.jpg'><br>Eric Mitchell",
+            "Target": "",
             "Rank": 1
         },
         "Connor Sokacz": {
@@ -482,6 +540,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/1000019328_ConnorSokacz.jpeg'><br>Connor Sokacz",
+            "Target": "",
             "Rank": 1
         },
         "Jide Lindsay": {
@@ -494,6 +553,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Jide Lindsay",
+            "Target": "",
             "Rank": 1
         },
         "Braelyn Patterson": {
@@ -506,6 +566,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_3135_BraelynPatterson.jpeg'><br>Braelyn Patterson",
+            "Target": "",
             "Rank": 1
         },
         "Analisa Festing": {
@@ -518,6 +579,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Analisa Festing",
+            "Target": "",
             "Rank": 1
         },
         "Haley Jones": {
@@ -530,6 +592,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/1D6A6D8D-894E-4FA7-9F1C-394C2F2A03FB_HaleyJones.jpeg'><br>Haley Jones",
+            "Target": "",
             "Rank": 1
         },
         "Maxim Perreault": {
@@ -542,6 +605,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_9955_MaximPerreault.jpeg'><br>Maxim Perreault",
+            "Target": "",
             "Rank": 1
         },
         "Dylan Patrick": {
@@ -554,6 +618,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_3599_DylanPatrick.jpeg'><br>Dylan Patrick",
+            "Target": "",
             "Rank": 1
         },
         "Alexei Lobaznyuk": {
@@ -566,6 +631,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4364_AlexeiLobaznyuk.jpeg'><br>Alexei Lobaznyuk",
+            "Target": "",
             "Rank": 1
         },
         "Sean Kerbrat": {
@@ -578,6 +644,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_5609_SeanKerbrat.jpeg'><br>Sean Kerbrat",
+            "Target": "",
             "Rank": 1
         },
         "Tommy Vuong": {
@@ -590,6 +657,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2322_TommyVuong.jpeg'><br>Tommy Vuong",
+            "Target": "",
             "Rank": 1
         },
         "Dylan Jones": {
@@ -602,6 +670,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4034_DylanJones.jpeg'><br>Dylan Jones",
+            "Target": "",
             "Rank": 1
         },
         "Alexis Pascual": {
@@ -614,6 +683,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Alexis Pascual",
+            "Target": "",
             "Rank": 1
         },
         "Maisie St James": {
@@ -626,6 +696,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_8935_MaisieStJames.jpeg'><br>Maisie St James",
+            "Target": "",
             "Rank": 1
         },
         "Roxana Paredes": {
@@ -638,6 +709,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2902_RoxanaParedes.jpeg'><br>Roxana Paredes",
+            "Target": "",
             "Rank": 1
         },
         "Jesse McCreath": {
@@ -650,6 +722,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0330_JesseMcCreath.jpeg'><br>Jesse McCreath",
+            "Target": "",
             "Rank": 1
         },
         "Eliot Rogers": {
@@ -662,6 +735,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4521_EliotRogers.png'><br>Eliot Rogers",
+            "Target": "",
             "Rank": 1
         },
         "Sienna Church": {
@@ -674,6 +748,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4763_SiennaChurch.jpeg'><br>Sienna Church",
+            "Target": "",
             "Rank": 1
         },
         "Harry Wheaton": {
@@ -686,6 +761,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_6313_HarryWheaton.jpeg'><br>Harry Wheaton",
+            "Target": "",
             "Rank": 1
         },
         "Declan Irving": {
@@ -698,6 +774,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2448_DeclanIrving.png'><br>Declan Irving",
+            "Target": "",
             "Rank": 1
         },
         "Samuel Smith": {
@@ -710,6 +787,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_1335_SamuelSmith.jpeg'><br>Samuel Smith",
+            "Target": "",
             "Rank": 1
         },
         "Keira Kelly": {
@@ -722,18 +800,20 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_7780_KeiraKelly.png'><br>Keira Kelly",
+            "Target": "",
             "Rank": 1
         },
         "Hannah Fielder": {
             "Name": "Hannah Fielder",
             "Email": "h.fielder@surreyschools.ca",
             "HandleIG": "hannah.f01",
-            "Photo": "default.png",
+            "Photo": "IMG_0712_HannahFielder.jpeg",
             "Ranking": -1,
             "Alive": true,
             "Tags": 0,
             "Last Tagged": 0,
-            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Hannah Fielder",
+            "HTML": "<img style='width:100px;' src='../photos/IMG_0712_HannahFielder.jpeg'><br>Hannah Fielder",
+            "Target": "",
             "Rank": 1
         },
         "Joshua Daum": {
@@ -746,6 +826,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2145_JoshuaDaum.jpeg'><br>Joshua Daum",
+            "Target": "",
             "Rank": 1
         },
         "Nate Hyland": {
@@ -758,6 +839,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_8348_NateHyland.png'><br>Nate Hyland",
+            "Target": "",
             "Rank": 1
         },
         "Caydence Burrows": {
@@ -770,6 +852,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_1236_CaydenceBurrows.jpeg'><br>Caydence Burrows",
+            "Target": "",
             "Rank": 1
         },
         "Landon Mills": {
@@ -782,6 +865,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Landon Mills",
+            "Target": "",
             "Rank": 1
         },
         "Alice Chen": {
@@ -794,6 +878,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_7207_AliceChen.png'><br>Alice Chen",
+            "Target": "",
             "Rank": 1
         },
         "Diya Kajla": {
@@ -806,6 +891,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/fe124a21-cb35-4d77-a5b8-720e801898d4_DiyaKajla.JPG'><br>Diya Kajla",
+            "Target": "",
             "Rank": 1
         },
         "Daniel Park": {
@@ -818,6 +904,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_6367_DanielPark.jpeg'><br>Daniel Park",
+            "Target": "",
             "Rank": 1
         },
         "Kiana Kelly": {
@@ -830,6 +917,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2211_Original_KianaKelly.jpeg'><br>Kiana Kelly",
+            "Target": "",
             "Rank": 1
         },
         "Eshaan Bali": {
@@ -842,6 +930,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/17387907531234433750182546802865_EshaanBali.jpg'><br>Eshaan Bali",
+            "Target": "",
             "Rank": 1
         },
         "Bhargavi Aggarwal": {
@@ -854,6 +943,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Bhargavi Aggarwal",
+            "Target": "",
             "Rank": 1
         },
         "Jaisha Malik": {
@@ -866,6 +956,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Jaisha Malik",
+            "Target": "",
             "Rank": 1
         },
         "Madeline Kim": {
@@ -878,6 +969,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Madeline Kim",
+            "Target": "",
             "Rank": 1
         },
         "Jeevan Dhaliwal": {
@@ -890,6 +982,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0158_JeevanDhaliwal.jpeg'><br>Jeevan Dhaliwal",
+            "Target": "",
             "Rank": 1
         },
         "Morgan Jackson": {
@@ -902,6 +995,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4429_MorganJackson.jpeg'><br>Morgan Jackson",
+            "Target": "",
             "Rank": 1
         },
         "Akshaj Arora": {
@@ -914,6 +1008,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2306_AkshajArora.jpeg'><br>Akshaj Arora",
+            "Target": "",
             "Rank": 1
         },
         "Sadie Swinimer": {
@@ -926,6 +1021,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_6572_SadieSwinimer.jpeg'><br>Sadie Swinimer",
+            "Target": "",
             "Rank": 1
         },
         "Hannah Dela Torre": {
@@ -938,6 +1034,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2041_HannahDelaTorre.jpeg'><br>Hannah Dela Torre",
+            "Target": "",
             "Rank": 1
         },
         "Nevaeh Nair": {
@@ -950,6 +1047,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_8402_NevaehNair.jpeg'><br>Nevaeh Nair",
+            "Target": "",
             "Rank": 1
         },
         "Jess LaPierre": {
@@ -962,6 +1060,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0363_JessLaPierre.jpeg'><br>Jess LaPierre",
+            "Target": "",
             "Rank": 1
         },
         "Brian Ha": {
@@ -974,6 +1073,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/image_BrianHa.jpg'><br>Brian Ha",
+            "Target": "",
             "Rank": 1
         },
         "Scott Larsen": {
@@ -986,6 +1086,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_3290_ScottLarsen.jpeg'><br>Scott Larsen",
+            "Target": "",
             "Rank": 1
         },
         "Tenel Enns": {
@@ -998,6 +1099,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_7237_TenelEnns.png'><br>Tenel Enns",
+            "Target": "",
             "Rank": 1
         },
         "Elliot Jackson": {
@@ -1010,6 +1112,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_1905_ElliotJackson.jpeg'><br>Elliot Jackson",
+            "Target": "",
             "Rank": 1
         },
         "Anuree Johnston": {
@@ -1022,6 +1125,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0528_AnureeJohnston.jpeg'><br>Anuree Johnston",
+            "Target": "",
             "Rank": 1
         },
         "Ashli Cox": {
@@ -1034,6 +1138,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_3529_AshliCox.jpeg'><br>Ashli Cox",
+            "Target": "",
             "Rank": 1
         },
         "Lauren MacNeil": {
@@ -1046,6 +1151,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0288_LaurenMacNeil.jpeg'><br>Lauren MacNeil",
+            "Target": "",
             "Rank": 1
         },
         "Caleb Crooks": {
@@ -1058,6 +1164,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2903_CalebCrooks.jpeg'><br>Caleb Crooks",
+            "Target": "",
             "Rank": 1
         },
         "Ryan Cheng": {
@@ -1070,6 +1177,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_6768_RyanCheng.jpeg'><br>Ryan Cheng",
+            "Target": "",
             "Rank": 1
         },
         "Connor Scott": {
@@ -1082,6 +1190,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/90E170D2-5853-4F79-89F0-3FACE983F854_ConnorScott.jpeg'><br>Connor Scott",
+            "Target": "",
             "Rank": 1
         },
         "Alicia Paris": {
@@ -1094,6 +1203,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/AliciaParisGradtag25_AliciaParis.JPG'><br>Alicia Paris",
+            "Target": "",
             "Rank": 1
         },
         "Wyatt Weir": {
@@ -1106,6 +1216,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_7841_WyattWeir.png'><br>Wyatt Weir",
+            "Target": "",
             "Rank": 1
         },
         "Miguel Flores Salceda": {
@@ -1118,6 +1229,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/31772397-DDCB-46D4-9B6B-E7C84F344B22_MiguelFloresSalced.jpeg'><br>Miguel Flores Salceda",
+            "Target": "",
             "Rank": 1
         },
         "Aderinsola Solabomi": {
@@ -1130,6 +1242,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/20250209_173924_AderinsolaSolabomi.jpg'><br>Aderinsola Solabomi",
+            "Target": "",
             "Rank": 1
         },
         "Harnagad Sidhu": {
@@ -1142,6 +1255,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Harnagad Sidhu",
+            "Target": "",
             "Rank": 1
         },
         "Adam Bennett": {
@@ -1154,6 +1268,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4342_AdamBennett.jpeg'><br>Adam Bennett",
+            "Target": "",
             "Rank": 1
         },
         "Jino Yoon": {
@@ -1166,6 +1281,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0746_JinoYoon.jpeg'><br>Jino Yoon",
+            "Target": "",
             "Rank": 1
         },
         "Sophia Fraser": {
@@ -1178,6 +1294,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Sophia Fraser",
+            "Target": "",
             "Rank": 1
         },
         "Destiny Manzano": {
@@ -1190,6 +1307,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2425_DestinyManzano.jpeg'><br>Destiny Manzano",
+            "Target": "",
             "Rank": 1
         },
         "Ellie Milligan": {
@@ -1202,6 +1320,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_4365_EllieMilligan.jpeg'><br>Ellie Milligan",
+            "Target": "",
             "Rank": 1
         },
         "Lucia Bayne": {
@@ -1214,6 +1333,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/2024-10-27_B241027-0187_hires_retouched_LuciaBayne.jpeg'><br>Lucia Bayne",
+            "Target": "",
             "Rank": 1
         },
         "Ethan Kelly": {
@@ -1226,6 +1346,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_2116_EthanKelly.jpeg'><br>Ethan Kelly",
+            "Target": "",
             "Rank": 1
         },
         "Carmella Dares": {
@@ -1238,6 +1359,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Carmella Dares",
+            "Target": "",
             "Rank": 1
         },
         "Devon Martinez": {
@@ -1250,6 +1372,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_6746_DevonMartinez.jpeg'><br>Devon Martinez",
+            "Target": "",
             "Rank": 1
         },
         "Madelyn Vuilleumier": {
@@ -1262,6 +1385,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_5599_MadelynVuilleumier.jpeg'><br>Madelyn Vuilleumier",
+            "Target": "",
             "Rank": 1
         },
         "Therese Nguyen": {
@@ -1274,6 +1398,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Therese Nguyen",
+            "Target": "",
             "Rank": 1
         },
         "Hudson Wilson": {
@@ -1286,6 +1411,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_1976_HudsonWilson.jpeg'><br>Hudson Wilson",
+            "Target": "",
             "Rank": 1
         },
         "Harrison Bartley": {
@@ -1298,6 +1424,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0295_HarrisonBartley.jpeg'><br>Harrison Bartley",
+            "Target": "",
             "Rank": 1
         },
         "Markus Laureano": {
@@ -1310,6 +1437,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_5964_MarkusLaureano.jpeg'><br>Markus Laureano",
+            "Target": "",
             "Rank": 1
         },
         "Liam Quan": {
@@ -1322,6 +1450,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Liam Quan",
+            "Target": "",
             "Rank": 1
         },
         "Oliver Laporte": {
@@ -1334,6 +1463,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/DSC_1305_OliverLaporte.jpeg'><br>Oliver Laporte",
+            "Target": "",
             "Rank": 1
         },
         "Nixon Pech": {
@@ -1346,6 +1476,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_1712_NixonPech.jpeg'><br>Nixon Pech",
+            "Target": "",
             "Rank": 1
         },
         "Eugene Lee": {
@@ -1358,6 +1489,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0441_EugeneLee.jpeg'><br>Eugene Lee",
+            "Target": "",
             "Rank": 1
         },
         "Simran Rayat": {
@@ -1370,6 +1502,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_9552_SimranRayat.jpeg'><br>Simran Rayat",
+            "Target": "",
             "Rank": 1
         },
         "Arjun Randhawa": {
@@ -1382,6 +1515,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/image_ArjunRandhawa.jpg'><br>Arjun Randhawa",
+            "Target": "",
             "Rank": 1
         },
         "Yohann Balogun": {
@@ -1394,6 +1528,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_0938_YohannBalogun.jpeg'><br>Yohann Balogun",
+            "Target": "",
             "Rank": 1
         },
         "Rylee Mason": {
@@ -1406,6 +1541,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_3203_RyleeMason.jpeg'><br>Rylee Mason",
+            "Target": "",
             "Rank": 1
         },
         "Jasmine Robertson-Zhou": {
@@ -1418,6 +1554,7 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Jasmine Robertson-Zhou",
+            "Target": "",
             "Rank": 1
         },
         "Marissa Lecian": {
@@ -1430,6 +1567,371 @@
             "Tags": 0,
             "Last Tagged": 0,
             "HTML": "<img style='width:100px;' src='../photos/IMG_7975_MarissaLecian.jpeg'><br>Marissa Lecian",
+            "Target": "",
+            "Rank": 1
+        },
+        "Jared Mackie": {
+            "Name": "Jared Mackie",
+            "Email": "jared.mackie@surreyschools.ca",
+            "HandleIG": "Jared_mackie22",
+            "Photo": "IMG_8489_JaredMackie.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_8489_JaredMackie.jpeg'><br>Jared Mackie",
+            "Target": "",
+            "Rank": 1
+        },
+        "Samantha Rego": {
+            "Name": "Samantha Rego",
+            "Email": "samantha.rego@surreyschools.ca",
+            "HandleIG": "sam_anthatr",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Samantha Rego",
+            "Target": "",
+            "Rank": 1
+        },
+        "Nicholas Kelly": {
+            "Name": "Nicholas Kelly",
+            "Email": "nicholas.kelly@surreyschools.ca",
+            "HandleIG": "_pha.khin_",
+            "Photo": "IMG_4411_NicholasKelly.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_4411_NicholasKelly.jpeg'><br>Nicholas Kelly",
+            "Target": "",
+            "Rank": 1
+        },
+        "Fatima Hassan": {
+            "Name": "Fatima Hassan",
+            "Email": "fatima.hassan@surreyschools.ca",
+            "HandleIG": "fqtimx",
+            "Photo": "IMG_8282_FatimaHassan.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_8282_FatimaHassan.jpeg'><br>Fatima Hassan",
+            "Target": "",
+            "Rank": 1
+        },
+        "Xavier Smith": {
+            "Name": "Xavier Smith",
+            "Email": "x.smith@surreyschools.ca",
+            "HandleIG": "@xman13011",
+            "Photo": "IMG_1839_XavierSmith.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_1839_XavierSmith.jpeg'><br>Xavier Smith",
+            "Target": "",
+            "Rank": 1
+        },
+        "Joanna Perreault": {
+            "Name": "Joanna Perreault",
+            "Email": "jn01.perreault@surreyschools.ca",
+            "HandleIG": "joannaperreault",
+            "Photo": "IMG_1717_JoannaPerreault.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_1717_JoannaPerreault.jpeg'><br>Joanna Perreault",
+            "Target": "",
+            "Rank": 1
+        },
+        "Mateya Baumer": {
+            "Name": "Mateya Baumer",
+            "Email": "m.baumer@surreyschools.ca",
+            "HandleIG": "Mateyab13",
+            "Photo": "IMG_7595_MateyaBaumer.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_7595_MateyaBaumer.jpeg'><br>Mateya Baumer",
+            "Target": "",
+            "Rank": 1
+        },
+        "Amani Shamoon": {
+            "Name": "Amani Shamoon",
+            "Email": "amani.behnam@surreyschools.ca",
+            "HandleIG": "amani_khleel",
+            "Photo": "IMG_20240928_230231_315_AmaniShamoon.jpg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_20240928_230231_315_AmaniShamoon.jpg'><br>Amani Shamoon",
+            "Target": "",
+            "Rank": 1
+        },
+        "Parinoor Bal": {
+            "Name": "Parinoor Bal",
+            "Email": "parinoor.bal@surreyschools.ca",
+            "HandleIG": "parinoorbal ",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Parinoor Bal",
+            "Target": "",
+            "Rank": 1
+        },
+        "Navleen Purewal": {
+            "Name": "Navleen Purewal",
+            "Email": "navleen.purewal@surreyschools.ca",
+            "HandleIG": "navleen.purewal",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Navleen Purewal",
+            "Target": "",
+            "Rank": 1
+        },
+        "Mia Ewasiuk": {
+            "Name": "Mia Ewasiuk",
+            "Email": "m.ewasiuk@surreyschools.ca",
+            "HandleIG": "miaewasiuk",
+            "Photo": "ScreenShot2025-02-16at2.31.16PM_MiaEwasiuk.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/ScreenShot2025-02-16at2.31.16PM_MiaEwasiuk.png'><br>Mia Ewasiuk",
+            "Target": "",
+            "Rank": 1
+        },
+        "Johnny Xing": {
+            "Name": "Johnny Xing",
+            "Email": "johnny.xing@surreyschools.ca",
+            "HandleIG": "frosticle_phantom",
+            "Photo": "IMG_6505_JohnnyXing.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_6505_JohnnyXing.jpeg'><br>Johnny Xing",
+            "Target": "",
+            "Rank": 1
+        },
+        "Kennedy Grayson": {
+            "Name": "Kennedy Grayson",
+            "Email": "kennedy.grayson@surreyschools.ca",
+            "HandleIG": "K.gray14",
+            "Photo": "IMG_6385_KennedyGrayson.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_6385_KennedyGrayson.png'><br>Kennedy Grayson",
+            "Target": "",
+            "Rank": 1
+        },
+        "Amirah Kajla": {
+            "Name": "Amirah Kajla",
+            "Email": "amirah.kajla@surreyschools.ca",
+            "HandleIG": "amirah.kajla",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Amirah Kajla",
+            "Target": "",
+            "Rank": 1
+        },
+        "William Pham": {
+            "Name": "William Pham",
+            "Email": "w01.pham@surreyschools.ca",
+            "HandleIG": "will.iam_ph.am",
+            "Photo": "DSC01414_WilliamPham.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/DSC01414_WilliamPham.jpeg'><br>William Pham",
+            "Target": "",
+            "Rank": 1
+        },
+        "Aayan Chowdhury": {
+            "Name": "Aayan Chowdhury",
+            "Email": "aayan.chowdhury@surreyschools.ca",
+            "HandleIG": "aayanchowdhury",
+            "Photo": "IMG_3646_AayanChowdhury.jpg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_3646_AayanChowdhury.jpg'><br>Aayan Chowdhury",
+            "Target": "",
+            "Rank": 1
+        },
+        "Ulises Romero": {
+            "Name": "Ulises Romero",
+            "Email": "u.romero@surreyschools.ca",
+            "HandleIG": "u_romero_",
+            "Photo": "IMG_2413_UlisesRomero.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_2413_UlisesRomero.jpeg'><br>Ulises Romero",
+            "Target": "",
+            "Rank": 1
+        },
+        "Ethan Darby": {
+            "Name": "Ethan Darby",
+            "Email": "ethan.darby@surreyschools.ca",
+            "HandleIG": "Ethan_darby",
+            "Photo": "IMG_2068_EthanDarby.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_2068_EthanDarby.jpeg'><br>Ethan Darby",
+            "Target": "",
+            "Rank": 1
+        },
+        "Christian Che": {
+            "Name": "Christian Che",
+            "Email": "christian.che@surreyschools.ca",
+            "HandleIG": "thqrese",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Christian Che",
+            "Target": "",
+            "Rank": 1
+        },
+        "Makayla Papp": {
+            "Name": "Makayla Papp",
+            "Email": "m.papp@surreyschools.ca",
+            "HandleIG": "@555kay1a",
+            "Photo": "IMG_9678_MakaylaPapp.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_9678_MakaylaPapp.jpeg'><br>Makayla Papp",
+            "Target": "",
+            "Rank": 1
+        },
+        "Keira Watkins": {
+            "Name": "Keira Watkins",
+            "Email": "k.watkins@surreyschools.ca",
+            "HandleIG": "@keira_grace_w",
+            "Photo": "IMG_4055_KeiraWatkins.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_4055_KeiraWatkins.jpeg'><br>Keira Watkins",
+            "Target": "",
+            "Rank": 1
+        },
+        "Arissa Chowdhury": {
+            "Name": "Arissa Chowdhury",
+            "Email": "az01.chowdhury@surreyschools.ca",
+            "HandleIG": "arissazchowdhury",
+            "Photo": "BE429AA2-454E-47A0-9237-1D55BF2D37C4_ArissaChowdhury.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/BE429AA2-454E-47A0-9237-1D55BF2D37C4_ArissaChowdhury.jpeg'><br>Arissa Chowdhury",
+            "Target": "",
+            "Rank": 1
+        },
+        "Harbeen Sidhu": {
+            "Name": "Harbeen Sidhu",
+            "Email": "harbeen.sidhu@surreyschools.ca",
+            "HandleIG": "_harbeensidhu",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Harbeen Sidhu",
+            "Target": "",
+            "Rank": 1
+        },
+        "Kyleigh Pope": {
+            "Name": "Kyleigh Pope",
+            "Email": "kyleigh.pope@surreyschools.ca",
+            "HandleIG": "kyleigh_mikala ",
+            "Photo": "IMG_6260_KyleighPope.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_6260_KyleighPope.jpeg'><br>Kyleigh Pope",
+            "Target": "",
+            "Rank": 1
+        },
+        "Grace Simmons": {
+            "Name": "Grace Simmons",
+            "Email": "grace.simmons@surreyschools.ca",
+            "HandleIG": "grace._simms",
+            "Photo": "IMG_8057_GraceSimmons.jpeg",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/IMG_8057_GraceSimmons.jpeg'><br>Grace Simmons",
+            "Target": "",
+            "Rank": 1
+        },
+        "Jaeden Potter": {
+            "Name": "Jaeden Potter",
+            "Email": "jaeden.potter@surreyschools.ca",
+            "HandleIG": "Jaedenn.m_",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Jaeden Potter",
+            "Target": "",
+            "Rank": 1
+        },
+        "Paula Jerusalem": {
+            "Name": "Paula Jerusalem",
+            "Email": "p.jerusalem@surreyschools.ca",
+            "HandleIG": "dodosgofeces",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Paula Jerusalem",
+            "Target": "",
+            "Rank": 1
+        },
+        "Bella Fuller": {
+            "Name": "Bella Fuller",
+            "Email": "i.fuller@surreyschools.ca",
+            "HandleIG": "belllafuller",
+            "Photo": "default.png",
+            "Ranking": -1,
+            "Alive": true,
+            "Tags": 0,
+            "Last Tagged": 0,
+            "HTML": "<img style='width:100px;' src='../photos/default.png'><br>Bella Fuller",
+            "Target": "",
             "Rank": 1
         }
     }
