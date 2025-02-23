@@ -33,15 +33,33 @@ for index, row in player_data.iterrows():
         "Alive" : True,
         "Tags" : 0,
         "Last Tagged": 0,
-        "Target": "--"
+        "Target": "--",
+        "HTML" : "",
     }
 
+num = len(names)
 for index, row in game_log.iterrows():
+    command = row["Command"]
+    p1 = row["Para1"]
+    p2 = row["Para2"]
+    time = row["Unix"]
+
+    if (command=="Shuffle"):
+        names.sort(key=lambda x:players[x]["Alive"], reverse=True)
+        a = list(range(0,num))
+        random.Random(p1).shuffle(a)
+        for i in range(0, num):
+            players[names[a[i]]]["Target"] = names[a[(i+1)%num]]
+
     if (row["Command"]=="Tag"):
-        players[row["Person 1"]]["Tags"]+=1
-        players[row["Person 1"]]["Last Tagged"] = row["Unix"]
-        players[row["Person 2"]]["Alive"] = False
-        players[row["Person 2"]]["Last Tagged"] = row["Unix"]
+        players[p1]["Tags"]+=1
+        players[p1]["Last Tagged"] = time
+        players[p2]["Alive"] = False
+        players[p2]["Last Tagged"] = time
+        
+        players[p1]["Target"] = players[p2]["Target"]
+        num-=1
+     
 
 # Stable Sort
 names.sort(key=lambda x:players[x]["Last Tagged"], reverse=True)
@@ -61,6 +79,14 @@ for i in range(len(names)):
             rank-=1
     players[cur]["Rank"] = rank
 
+# HTML setting
+for name in names:
+    if (players[name]["Alive"]):
+        players[name]["HTML"] += '<img style="width:100px;" src="../photos/' + players[name]["Photo"] + '"><br>' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
+    else:
+        players[name]["HTML"] += '<img style="width:100px;" src="../Images/TaggedStamp.png' + '"><br>' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
+        
+        
 json_data = {
     "names" : names,
     "players" : players
