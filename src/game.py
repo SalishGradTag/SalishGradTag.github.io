@@ -82,9 +82,9 @@ for i in range(len(names)):
 # HTML setting
 for name in names:
     if (players[name]["Alive"]):
-        players[name]["HTML"] += '<img style="width:100px;" src="../photos/' + players[name]["Photo"] + '"><br>' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
+        players[name]["HTML"] += '<img style="width:100px;" src="../photos/' + players[name]["Photo"] + '"><br> Rank: ' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
     else:
-        players[name]["HTML"] += '<img style="width:100px;" src="../Images/TaggedStamp.png' + '"><br>' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
+        players[name]["HTML"] += '<img style="width:100px;" src="../Images/TaggedStamp.png' + '"><br>Rank: ' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
         
         
 json_data = {
