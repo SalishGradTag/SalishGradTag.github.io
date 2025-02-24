@@ -50,6 +50,7 @@ for index, row in game_log.iterrows():
         random.Random(p1).shuffle(a)
         for i in range(0, num):
             players[names[a[i]]]["Target"] = names[a[(i+1)%num]]
+            print(names[a[i]], names[a[(i+1)%num]])
 
     if (row["Command"]=="Tag"):
         players[p1]["Tags"]+=1
