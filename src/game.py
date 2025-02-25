@@ -68,17 +68,17 @@ for index, row in game_log.iterrows():
         players[p2]["Tagger"] = p1
         players[p1]["Target"] = players[p2]["Target"]
         num-=1
-     
 
 # Stable Sort
-names.sort(key=lambda x:players[x]["Last Tagged"], reverse=True)
-names.sort(key=lambda x:players[x]["Tags"], reverse=True)
-names.sort(key=lambda x:players[x]["Alive"], reverse=True)
+names.sort(key=lambda x:players[x]["Last Tagged"],reverse=True)
+names.sort(key=lambda x:players[x]["Tags"],reverse=True)
+names.sort(key=lambda x:players[x]["Alive"],reverse=True)
 
 rank = 0
 
 for i in range(len(names)):
     cur = names[i] 
+    print(names[i])
     rank+=1
     if (i>0):
         prev = names[i-1]
@@ -90,6 +90,7 @@ for i in range(len(names)):
 
 # HTML setting
 for name in names:
+    print(name, players[name]["Rank"])
     if (players[name]["Alive"]):
         players[name]["HTML"] += '<img style="width:100px;" src="../photos/' + players[name]["Photo"] + '"><br> Rank: ' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
     else:

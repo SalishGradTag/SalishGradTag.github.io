@@ -35,6 +35,7 @@
             async function loadPhotos() {
                 const response = await fetch('../src/players.json');
                 const data = await response.json();
+                console.log(data)
                 const names = data["names"];
                 const players = data["players"];
                 
