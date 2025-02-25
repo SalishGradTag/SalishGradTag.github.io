@@ -363,7 +363,7 @@
             "Tags": 0,
             "Last Tagged": 1740393000.0,
             "Target": "Brian Ha",
-            "HTML": "<img class=\"stamp\" src=\"../Images/TaggedStamp.png\"><img class=\"profile\" src=\"../photos/default.png\"><br>Rank: 7<br> Zaima Salman<br>Tagged by Nicholas Kelly on 02-24",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 7<br> Zaima Salman<br>Tagged by Nicholas Kelly on 02-24",
             "Rank": 7
         },
         "Shaya Venktes": {
@@ -2598,7 +2598,7 @@
             "Tags": 0,
             "Last Tagged": 1740356820.0000002,
             "Target": "Jason Puchniak",
-            "HTML": "<img class=\"stamp\" src=\"../Images/TaggedStamp.png\"><img class=\"profile\" src=\"../photos/20250222_235236_WoosungLee.jpg\"><br>Rank: 8<br> Woosung Lee<br>Tagged by Aron Yu on 02-24",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/20250222_235236_WoosungLee.jpg\"><br>Rank: 8<br> Woosung Lee<br>Tagged by Aron Yu on 02-24",
             "Rank": 8
         },
         "Ryan So": {
@@ -2658,7 +2658,7 @@
             "Tags": 0,
             "Last Tagged": 1740395160.0000002,
             "Target": "Cora Walshe",
-            "HTML": "<img class=\"stamp\" src=\"../Images/TaggedStamp.png\"><img class=\"profile\" src=\"../photos/default.png\"><br>Rank: 6<br> Rich Kiel Caro<br>Tagged by Jayde Forster on 02-24",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 6<br> Rich Kiel Caro<br>Tagged by Jayde Forster on 02-24",
             "Rank": 6
         },
         "Adiv Singh": {

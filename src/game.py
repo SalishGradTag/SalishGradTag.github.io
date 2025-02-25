@@ -93,7 +93,7 @@ for name in names:
     if (players[name]["Alive"]):
         players[name]["HTML"] += '<img style="width:100px;" src="../photos/' + players[name]["Photo"] + '"><br> Rank: ' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
     else:
-        players[name]["HTML"] += f'<img class="stamp" src="../Images/TaggedStamp.png"><img class="profile" src="../photos/{players[name]["Photo"]}"><br>Rank: {players[name]["Rank"]}<br> {players[name]["Name"]}'
+        players[name]["HTML"] += f'<img style="width:100px; position:absolute" src="../Images/TaggedStamp.png"><img style="width:100px;" src="../photos/{players[name]["Photo"]}"><br>Rank: {players[name]["Rank"]}<br> {players[name]["Name"]}'
         players[name]["HTML"] += f'<br>Tagged by {players[name]["Tagger"]} on {players[name]["Date"]}'
     
     if (players[name]["Tags"]>0):
