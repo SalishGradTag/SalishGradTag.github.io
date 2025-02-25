@@ -166,11 +166,10 @@
         "Adiv Singh",
         "Ryan Edwards",
         "Margeret Sanchez",
-        "Minh Triet Le",
-        "Francesco Cioffi",
         "Woosung Lee",
         "Rich Kiel Caro",
-        "Zaima Salman"
+        "Zaima Salman",
+        "Francesco Cioffi"
     ],
     "players": {
         "Kai Douangchanh": {
@@ -2707,36 +2706,21 @@
             "Target": "Maisie St James",
             "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 5<br>Margeret Sanchez",
             "Rank": 5
-        },
-        "Francesco Cioffi": {
-            "Name": "Francesco Cioffi",
-            "Email": "f.cioffi@surreyschools.ca",
-            "HandleIG": "",
-            "Photo": "default.png",
-            "Tagger": "",
-            "Date": "",
-            "Ranking": -1,
-            "Alive": true,
-            "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Minh Triet",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 5<br>Francesco Cioffi",
-            "Rank": 5
-        },
-        "Minh Triet Le": {
-            "Name": "Minh Triet Le",
-            "Email": "",
-            "HandleIG": "",
-            "Photo": "default.png",
-            "Tagger": "",
-            "Date": "",
-            "Ranking": -1,
-            "Alive": true,
-            "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Liam Quan",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 5<br>Minh Triet",
-            "Rank": 5
         }
+    },
+    "Francesco Cioffi": {
+        "Name": "Francesco Cioffi",
+        "Email": "f.cioffi@surreyschools.ca",
+        "HandleIG": "",
+        "Photo": "default.png",
+        "Tagger": "",
+        "Date": "",
+        "Ranking": -1,
+        "Alive": true,
+        "Tags": 0,
+        "Last Tagged": 0,
+        "Target": "Minh Triet",
+        "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 5<br>Francesco Cioffi",
+        "Rank": 5
     }
 }
