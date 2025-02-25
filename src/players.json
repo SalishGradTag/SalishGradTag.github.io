@@ -1,9 +1,9 @@
 {
     "names": [
-        "Aron Yu",
         "Jayde Forster",
         "Nicholas Kelly",
         "Alex Skuce",
+        "Aron Yu",
         "Kai Douangchanh",
         "Jakob Teichrieb",
         "Jason Puchniak",
@@ -166,11 +166,9 @@
         "Adiv Singh",
         "Ryan Edwards",
         "Margeret Sanchez",
-        "Minh Triet Le",
-        "Francesco Cioffi",
-        "Woosung Lee",
         "Rich Kiel Caro",
-        "Zaima Salman"
+        "Zaima Salman",
+        "Woosung Lee"
     ],
     "players": {
         "Kai Douangchanh": {
@@ -269,14 +267,14 @@
             "HandleIG": "aronyuuu",
             "Photo": "IMG_7119_AronYu.jpeg",
             "Tagger": "",
-            "Date": "02-25",
+            "Date": "02-24",
             "Ranking": -1,
             "Alive": true,
             "Tags": 1,
-            "Last Tagged": 1740443220.0000002,
+            "Last Tagged": 1740356820.0000002,
             "Target": "Jason Puchniak",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7119_AronYu.jpeg\"><br> Rank: 1<br>Aron Yu<br>1 tags",
-            "Rank": 1
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7119_AronYu.jpeg\"><br> Rank: 4<br>Aron Yu<br>1 tags",
+            "Rank": 4
         },
         "Makaylah Brathwaite": {
             "Name": "Makaylah Brathwaite",
@@ -365,8 +363,8 @@
             "Tags": 0,
             "Last Tagged": 1740393000.0,
             "Target": "Brian Ha",
-            "HTML": "<img style=\"width:100px;\" src=\"../Images/TaggedStamp.png\"><br>Rank: 8<br>Zaima Salman<br>Tagged on Nicholas Kelly on 02-24",
-            "Rank": 8
+            "HTML": "<img class=\"stamp\" src=\"../Images/TaggedStamp.png\"><img class=\"profile\" src=\"../photos/default.png\"><br>Rank: 7<br> Zaima Salman<br>Tagged by Nicholas Kelly on 02-24",
+            "Rank": 7
         },
         "Shaya Venktes": {
             "Name": "Shaya Venktes",
@@ -395,8 +393,8 @@
             "Tags": 1,
             "Last Tagged": 1740392519.9999998,
             "Target": "Liam Quan",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8896_AlexSkuce.jpg\"><br> Rank: 4<br>Alex Skuce<br>1 tags",
-            "Rank": 4
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8896_AlexSkuce.jpg\"><br> Rank: 3<br>Alex Skuce<br>1 tags",
+            "Rank": 3
         },
         "Ruby Clunas": {
             "Name": "Ruby Clunas",
@@ -515,8 +513,8 @@
             "Tags": 1,
             "Last Tagged": 1740395160.0000002,
             "Target": "Cora Walshe",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_20241217_091627_952_JaydeForster.jpg\"><br> Rank: 2<br>Jayde Forster<br>1 tags",
-            "Rank": 2
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_20241217_091627_952_JaydeForster.jpg\"><br> Rank: 1<br>Jayde Forster<br>1 tags",
+            "Rank": 1
         },
         "Cora Walshe": {
             "Name": "Cora Walshe",
@@ -1850,8 +1848,8 @@
             "Tags": 1,
             "Last Tagged": 1740393000.0,
             "Target": "Brian Ha",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4411_NicholasKelly.jpeg\"><br> Rank: 3<br>Nicholas Kelly<br>1 tags",
-            "Rank": 3
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4411_NicholasKelly.jpeg\"><br> Rank: 2<br>Nicholas Kelly<br>1 tags",
+            "Rank": 2
         },
         "Fatima Hassan": {
             "Name": "Fatima Hassan",
@@ -2594,14 +2592,14 @@
             "HandleIG": "ws_o316",
             "Photo": "20250222_235236_WoosungLee.jpg",
             "Tagger": "Aron Yu",
-            "Date": "02-25",
+            "Date": "02-24",
             "Ranking": -1,
             "Alive": false,
             "Tags": 0,
-            "Last Tagged": 1740443220.0000002,
+            "Last Tagged": 1740356820.0000002,
             "Target": "Jason Puchniak",
-            "HTML": "<img style=\"width:100px;\" src=\"../Images/TaggedStamp.png\"><br>Rank: 6<br>Woosung Lee<br>Tagged on Aron Yu on 02-25",
-            "Rank": 6
+            "HTML": "<img class=\"stamp\" src=\"../Images/TaggedStamp.png\"><img class=\"profile\" src=\"../photos/20250222_235236_WoosungLee.jpg\"><br>Rank: 8<br> Woosung Lee<br>Tagged by Aron Yu on 02-24",
+            "Rank": 8
         },
         "Ryan So": {
             "Name": "Ryan So",
@@ -2660,8 +2658,8 @@
             "Tags": 0,
             "Last Tagged": 1740395160.0000002,
             "Target": "Cora Walshe",
-            "HTML": "<img style=\"width:100px;\" src=\"../Images/TaggedStamp.png\"><br>Rank: 7<br>Rich Kiel Caro<br>Tagged on Jayde Forster on 02-24",
-            "Rank": 7
+            "HTML": "<img class=\"stamp\" src=\"../Images/TaggedStamp.png\"><img class=\"profile\" src=\"../photos/default.png\"><br>Rank: 6<br> Rich Kiel Caro<br>Tagged by Jayde Forster on 02-24",
+            "Rank": 6
         },
         "Adiv Singh": {
             "Name": "Adiv Singh",
@@ -2706,36 +2704,6 @@
             "Last Tagged": 0,
             "Target": "Maisie St James",
             "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 5<br>Margeret Sanchez",
-            "Rank": 5
-        },
-        "Francesco Cioffi": {
-            "Name": "Francesco Cioffi",
-            "Email": "f.cioffi@surreyschools.ca",
-            "HandleIG": "",
-            "Photo": "default.png",
-            "Tagger": "",
-            "Date": "",
-            "Ranking": -1,
-            "Alive": true,
-            "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Minh Triet",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 5<br>Francesco Cioffi",
-            "Rank": 5
-        },
-        "Minh Triet Le": {
-            "Name": "Minh Triet Le",
-            "Email": "",
-            "HandleIG": "",
-            "Photo": "default.png",
-            "Tagger": "",
-            "Date": "",
-            "Ranking": -1,
-            "Alive": true,
-            "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Liam Quan",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 5<br>Minh Triet",
             "Rank": 5
         }
     }
