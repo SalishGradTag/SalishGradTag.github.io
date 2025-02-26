@@ -1,8 +1,9 @@
 {
     "names": [
-        "Jess LaPierre",
         "Alex Skuce",
+        "Jess LaPierre",
         "Morgan Jackson",
+        "Mateya Baumer",
         "Aron Yu",
         "Jayde Forster",
         "Nicholas Kelly",
@@ -112,7 +113,6 @@
         "Fatima Hassan",
         "Xavier Smith",
         "Joanna Perreault",
-        "Mateya Baumer",
         "Amani Shamoon",
         "Parinoor Bal",
         "Navleen Purewal",
@@ -138,7 +138,6 @@
         "Jocelyn Roberts",
         "Nadine Fernandes",
         "Orget Murati",
-        "Jacob Dotto",
         "Tin Nguyen",
         "Ciara Chapman",
         "Owen Bolenback",
@@ -165,9 +164,10 @@
         "Margeret Sanchez",
         "Minh Triet Le",
         "Sarmed Bek",
+        "Francesco Cioffi",
         "Kayla Norris",
         "Jeevan Dhaliwal",
-        "Francesco Cioffi",
+        "Jacob Dotto",
         "Elliot Jackson",
         "Woosung Lee",
         "Rich Kiel Caro",
@@ -394,10 +394,10 @@
             "Ranking": -1,
             "Alive": true,
             "Tags": 2,
-            "Last Tagged": 1740478919.9999998,
+            "Last Tagged": 1740503340.0,
             "Target": "Brian Ha",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8896_AlexSkuce.jpg\"><br> Rank: 2<br>Alex Skuce<br>2 tags",
-            "Rank": 2
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8896_AlexSkuce.jpg\"><br> Rank: 1<br>Alex Skuce<br>2 tags",
+            "Rank": 1
         },
         "Ruby Clunas": {
             "Name": "Ruby Clunas",
@@ -1131,8 +1131,8 @@
             "Tags": 0,
             "Last Tagged": 1740482100.0,
             "Target": "Ted Harrison",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0158_JeevanDhaliwal.jpeg\"><br>Rank: 9<br> Jeevan Dhaliwal<br>Tagged by Morgan Jackson on 02-25",
-            "Rank": 9
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0158_JeevanDhaliwal.jpeg\"><br>Rank: 10<br> Jeevan Dhaliwal<br>Tagged by Morgan Jackson on 02-25",
+            "Rank": 10
         },
         "Morgan Jackson": {
             "Name": "Morgan Jackson",
@@ -1221,8 +1221,8 @@
             "Tags": 2,
             "Last Tagged": 1740489600.0,
             "Target": "Noelani Alegado",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0363_JessLaPierre.jpeg\"><br> Rank: 1<br>Jess LaPierre<br>2 tags",
-            "Rank": 1
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0363_JessLaPierre.jpeg\"><br> Rank: 2<br>Jess LaPierre<br>2 tags",
+            "Rank": 2
         },
         "Brian Ha": {
             "Name": "Brian Ha",
@@ -1905,14 +1905,14 @@
             "HandleIG": "Mateyab13",
             "Photo": "IMG_7595_MateyaBaumer.jpeg",
             "Tagger": "",
-            "Date": "",
+            "Date": "02-25",
             "Ranking": -1,
             "Alive": true,
-            "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Sophie Baker",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7595_MateyaBaumer.jpeg\"><br> Rank: 7<br>Mateya Baumer",
-            "Rank": 7
+            "Tags": 1,
+            "Last Tagged": 1740482100.0,
+            "Target": "Ivanilson Lopes",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7595_MateyaBaumer.jpeg\"><br> Rank: 3<br>Mateya Baumer<br>1 tags",
+            "Rank": 3
         },
         "Amani Shamoon": {
             "Name": "Amani Shamoon",
@@ -2294,15 +2294,15 @@
             "Email": "j.dotto@surreyschools.ca",
             "HandleIG": "Jcob.o",
             "Photo": "inbound6323714237634980298_JacobDotto.jpg",
-            "Tagger": "",
-            "Date": "",
+            "Tagger": "Mateya Baumer",
+            "Date": "02-25",
             "Ranking": -1,
-            "Alive": true,
+            "Alive": false,
             "Tags": 0,
-            "Last Tagged": 0,
+            "Last Tagged": 1740482100.0,
             "Target": "Ivanilson Lopes",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/inbound6323714237634980298_JacobDotto.jpg\"><br> Rank: 7<br>Jacob Dotto",
-            "Rank": 7
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/inbound6323714237634980298_JacobDotto.jpg\"><br>Rank: 10<br> Jacob Dotto<br>Tagged by Mateya Baumer on 02-25",
+            "Rank": 10
         },
         "Tin Nguyen": {
             "Name": "Tin Nguyen",
@@ -2331,8 +2331,8 @@
             "Tags": 0,
             "Last Tagged": 1740489600.0,
             "Target": "Noelani Alegado",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/16F11CE8-7658-4094-83FB-B3291F009199_KaylaNorris.jpeg\"><br>Rank: 8<br> Kayla Norris<br>Tagged by Jess LaPierre on 02-25",
-            "Rank": 8
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/16F11CE8-7658-4094-83FB-B3291F009199_KaylaNorris.jpeg\"><br>Rank: 9<br> Kayla Norris<br>Tagged by Jess LaPierre on 02-25",
+            "Rank": 9
         },
         "Ciara Chapman": {
             "Name": "Ciara Chapman",
@@ -2734,10 +2734,10 @@
             "Ranking": -1,
             "Alive": false,
             "Tags": 0,
-            "Last Tagged": 1740478919.9999998,
+            "Last Tagged": 1740503340.0,
             "Target": "Brian Ha",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 10<br> Francesco Cioffi<br>Tagged by Alex Skuce on 02-25",
-            "Rank": 10
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 8<br> Francesco Cioffi<br>Tagged by Alex Skuce on 02-25",
+            "Rank": 8
         },
         "Sarmed Bek": {
             "Name": "Sarmed Bek",
