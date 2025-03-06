@@ -11,13 +11,14 @@ with open(json_file) as json_data:
     players = data["players"]
 
     for name in names:
-        cur = {}
-        cur["email"] = players[name]["Email"]
-        cur["message"] = f"""
+        if (players[name]["Alive"]):
+            cur = {}
+            cur["email"] = players[name]["Email"]
+            cur["message"] = f"""
 Hi <at>{cur["email"]}</at>, <br>
-Grad Tag is starting tomorrow! <br>
 
-Your target is {players[name]["Target"]}. <br><br>
+Your new target is {players[name]["Target"]}. <br><br>
+
 
 Please read the <a href="https://salishgradtag.ca/2025/rules">rules</a> to understand the game and immunity item for this week.
 
