@@ -102,8 +102,9 @@ for name in names:
         
         
 json_data = {
+    "num" : num,
     "names" : names,
-    "players" : players
+    "players" : players,
 }
 
 with open('src/players.json', 'w', encoding='utf-8') as f:
