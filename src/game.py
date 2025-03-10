@@ -37,6 +37,7 @@ for index, row in player_data.iterrows():
         "Last Tagged": 0,
         "Target": "--",
         "HTML" : "",
+        "Points" : 0,
     }
 
 num = len(names)
@@ -67,6 +68,7 @@ for index, row in game_log.iterrows():
 
         players[p2]["Tagger"] = p1
         players[p1]["Target"] = players[p2]["Target"]
+        players[p2]["Target"] = "--"
         num-=1
 
 # Stable Sort
