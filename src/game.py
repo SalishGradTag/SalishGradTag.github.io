@@ -53,10 +53,13 @@ for index, row in game_log.iterrows():
     if (command=="Shuffle"):
         names.sort(key=lambda x:players[x]["Alive"], reverse=True)
         a = list(range(0,num))
+        print()
         random.Random(p1).shuffle(a)
         for i in range(0, num):
+            #print(a[i])
             players[names[a[i]]]["Target"] = names[a[(i+1)%num]]
             print(names[a[i]], names[a[(i+1)%num]])
+        print("\n\n\n\n\n")
 
     if (row["Command"]=="Tag"):
         players[p1]["Tags"]+=1
@@ -80,7 +83,6 @@ rank = 0
 
 for i in range(len(names)):
     cur = names[i] 
-    print(names[i])
     rank+=1
     if (i>0):
         prev = names[i-1]
@@ -92,7 +94,6 @@ for i in range(len(names)):
 
 # HTML setting
 for name in names:
-    print(name, players[name]["Rank"])
     if (players[name]["Alive"]):
         players[name]["HTML"] += '<img style="width:100px;" src="../photos/' + players[name]["Photo"] + '"><br> Rank: ' + str(players[name]["Rank"]) + '<br>' + players[name]["Name"]
     else:
