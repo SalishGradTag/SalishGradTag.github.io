@@ -50,7 +50,8 @@ for index, row in game_log.iterrows():
     if (command=="Point"):
         players[p1]["Tags"]+=1
         players[p1]["Last Tagged"] = time
-    if (command=="Shuffle"):
+        
+    elif (command=="Shuffle"):
         names.sort(key=lambda x:players[x]["Alive"], reverse=True)
         a = list(range(0,num))
         print()
@@ -61,7 +62,7 @@ for index, row in game_log.iterrows():
             print(names[a[i]], names[a[(i+1)%num]])
         print("\n\n\n\n\n")
 
-    if (row["Command"]=="Tag"):
+    elif (command=="Tag"):
         players[p1]["Tags"]+=1
         players[p1]["Last Tagged"] = time
         players[p1]["Date"] = str(date)[5:10]
@@ -74,6 +75,12 @@ for index, row in game_log.iterrows():
         players[p2]["Target"] = "--"
         num-=1
 
+    elif (command=="Negative Point"):
+        players[p1]["Tags"]-=1
+
+    elif (command=="Remove"):
+        del players[p1]
+        names = list(filter(lambda a: a != p1, names))
 # Stable Sort
 names.sort(key=lambda x:players[x]["Last Tagged"],reverse=True)
 names.sort(key=lambda x:players[x]["Tags"],reverse=True)
