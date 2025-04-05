@@ -1,20 +1,23 @@
 {
-    "num": 104,
+    "num": 100,
     "names": [
         "Hudson Wilson",
+        "Armaani Kaila",
         "Haley Jones",
         "Cora Walshe",
         "Alex Skuce",
+        "Aron Yu",
         "Jayde Forster",
         "Avery Walshe",
         "Makayla Papp",
         "Tommy Vuong",
         "Sophie Baker",
         "Amani Shamoon",
-        "Armaani Kaila",
         "Evan Stubbings",
         "Nicholas Kelly",
         "Jess LaPierre",
+        "Jakob Teichrieb",
+        "Navleen Purewal",
         "Adam Bennett",
         "Oliver Laporte",
         "Keira Kelly",
@@ -41,9 +44,7 @@
         "Ruby Clunas",
         "Ryan Cheng",
         "Mateya Baumer",
-        "Aron Yu",
         "Sarmed Bek",
-        "Jakob Teichrieb",
         "Jason Puchniak",
         "Justin Tran",
         "Josh Harris",
@@ -60,12 +61,10 @@
         "Sean Kerbrat",
         "Maisie St James",
         "Roxana Paredes",
-        "Jesse McCreath",
         "Eliot Rogers",
         "Sienna Church",
         "Landon Mills",
         "Daniel Park",
-        "Eshaan Bali",
         "Bhargavi Aggarwal",
         "Akshaj Arora",
         "Sadie Swinimer",
@@ -81,14 +80,12 @@
         "Madelyn Vuilleumier",
         "Therese Nguyen",
         "Harrison Bartley",
-        "Liam Quan",
         "Eugene Lee",
         "Simran Rayat",
         "Samantha Rego",
         "Fatima Hassan",
         "Joanna Perreault",
         "Parinoor Bal",
-        "Navleen Purewal",
         "Mia Ewasiuk",
         "Johnny Xing",
         "Aayan Chowdhury",
@@ -98,7 +95,6 @@
         "Kyleigh Pope",
         "Jocelyn Roberts",
         "Nadine Fernandes",
-        "Orget Murati",
         "Samantha Crowder",
         "Noelani Alegado",
         "Sadie Barrell",
@@ -113,6 +109,10 @@
         "Maxim Perreault",
         "Scott Larsen",
         "Lauren MacNeil",
+        "Liam Quan",
+        "Jesse McCreath",
+        "Eshaan Bali",
+        "Orget Murati",
         "Ryan So",
         "Arissa Chowdhury",
         "Caydence Burrows",
@@ -188,9 +188,9 @@
             "Tags": 1,
             "Last Tagged": 1740739920.0,
             "Target": "Joanna Perreault",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0616_KaiDouangchanh.jpeg\"><br> Rank: 34<br>Kai Douangchanh<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0616_KaiDouangchanh.jpeg\"><br> Rank: 37<br>Kai Douangchanh<br>1 tags",
             "Points": 0,
-            "Rank": 34
+            "Rank": 37
         },
         "Jakob Teichrieb": {
             "Name": "Jakob Teichrieb",
@@ -198,15 +198,15 @@
             "HandleIG": "mr_jaakob",
             "Photo": "IMG_5641_JakobTeichrieb.jpeg",
             "Tagger": "",
-            "Date": "",
+            "Date": "04-04",
             "Ranking": -1,
             "Alive": true,
-            "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Liam Quan",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5641_JakobTeichrieb.jpeg\"><br> Rank: 43<br>Jakob Teichrieb",
+            "Tags": 1,
+            "Last Tagged": 1743776760.0000002,
+            "Target": "Landon Mills",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5641_JakobTeichrieb.jpeg\"><br> Rank: 16<br>Jakob Teichrieb<br>1 tags",
             "Points": 0,
-            "Rank": 43
+            "Rank": 16
         },
         "Jason Puchniak": {
             "Name": "Jason Puchniak",
@@ -220,9 +220,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Sophia Fraser",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/inbound7470585376347610862_JasonPuchniak.jpg\"><br> Rank: 43<br>Jason Puchniak",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/inbound7470585376347610862_JasonPuchniak.jpg\"><br> Rank: 45<br>Jason Puchniak",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Jaideep Nandha": {
             "Name": "Jaideep Nandha",
@@ -236,9 +236,9 @@
             "Tags": 0,
             "Last Tagged": 1741272660.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_3552_JaideepNandha.jpeg\"><br>Rank: 77<br> Jaideep Nandha<br>Tagged by Madeline Kim on 03-06",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_3552_JaideepNandha.jpeg\"><br>Rank: 83<br> Jaideep Nandha<br>Tagged by Madeline Kim on 03-06",
             "Points": 0,
-            "Rank": 77
+            "Rank": 83
         },
         "Himmit Virk": {
             "Name": "Himmit Virk",
@@ -252,9 +252,9 @@
             "Tags": 1,
             "Last Tagged": 1741574700.0000002,
             "Target": "Devon Martinez",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 22<br>Himmit Virk<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 25<br>Himmit Virk<br>1 tags",
             "Points": 0,
-            "Rank": 22
+            "Rank": 25
         },
         "Justin Tran": {
             "Name": "Justin Tran",
@@ -268,9 +268,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Nicholas Kelly",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Justin Tran",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Justin Tran",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Aron Yu": {
             "Name": "Aron Yu",
@@ -278,15 +278,15 @@
             "HandleIG": "aronyuuu",
             "Photo": "IMG_7119_AronYu.jpeg",
             "Tagger": "",
-            "Date": "02-24",
+            "Date": "04-02",
             "Ranking": -1,
             "Alive": true,
-            "Tags": 1,
-            "Last Tagged": 1740400020.0000002,
-            "Target": "Tin Nguyen",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7119_AronYu.jpeg\"><br> Rank: 41<br>Aron Yu<br>1 tags",
+            "Tags": 2,
+            "Last Tagged": 1743560399.9999998,
+            "Target": "Amaan Ali",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7119_AronYu.jpeg\"><br> Rank: 6<br>Aron Yu<br>2 tags",
             "Points": 0,
-            "Rank": 41
+            "Rank": 6
         },
         "Makaylah Brathwaite": {
             "Name": "Makaylah Brathwaite",
@@ -300,9 +300,9 @@
             "Tags": 0,
             "Last Tagged": 1741350180.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 68<br> Makaylah Brathwaite<br>Tagged by Jaisha Malik on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 74<br> Makaylah Brathwaite<br>Tagged by Jaisha Malik on 03-07",
             "Points": 0,
-            "Rank": 68
+            "Rank": 74
         },
         "Josh Harris": {
             "Name": "Josh Harris",
@@ -316,9 +316,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Sophie Baker",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2851_JoshHarris.jpeg\"><br> Rank: 43<br>Josh Harris",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2851_JoshHarris.jpeg\"><br> Rank: 45<br>Josh Harris",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Riya Bhangu": {
             "Name": "Riya Bhangu",
@@ -332,9 +332,9 @@
             "Tags": 1,
             "Last Tagged": 1740657600.0,
             "Target": "Sadie Barrell",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 36<br>Riya Bhangu<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 39<br>Riya Bhangu<br>1 tags",
             "Points": 0,
-            "Rank": 36
+            "Rank": 39
         },
         "Sydney Marshall": {
             "Name": "Sydney Marshall",
@@ -348,9 +348,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Nadine Fernandes",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Sydney Marshall",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Sydney Marshall",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Mya Wiggins": {
             "Name": "Mya Wiggins",
@@ -364,9 +364,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Ethan Darby",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Mya Wiggins",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Mya Wiggins",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Zaima Salman": {
             "Name": "Zaima Salman",
@@ -380,9 +380,9 @@
             "Tags": 0,
             "Last Tagged": 1740393000.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 109<br> Zaima Salman<br>Tagged by Nicholas Kelly on 02-24",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 115<br> Zaima Salman<br>Tagged by Nicholas Kelly on 02-24",
             "Points": 0,
-            "Rank": 109
+            "Rank": 115
         },
         "Shaya Venktes": {
             "Name": "Shaya Venktes",
@@ -396,9 +396,9 @@
             "Tags": 1,
             "Last Tagged": 1741084200.0,
             "Target": "Hannah Dela Torre",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 32<br>Shaya Venktes<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 35<br>Shaya Venktes<br>1 tags",
             "Points": 0,
-            "Rank": 32
+            "Rank": 35
         },
         "Alex Skuce": {
             "Name": "Alex Skuce",
@@ -412,9 +412,9 @@
             "Tags": 3,
             "Last Tagged": 1741348080.0000002,
             "Target": "Haley Jones",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8896_AlexSkuce.jpg\"><br> Rank: 4<br>Alex Skuce<br>3 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8896_AlexSkuce.jpg\"><br> Rank: 5<br>Alex Skuce<br>3 tags",
             "Points": 0,
-            "Rank": 4
+            "Rank": 5
         },
         "Ruby Clunas": {
             "Name": "Ruby Clunas",
@@ -428,9 +428,9 @@
             "Tags": 1,
             "Last Tagged": 1740568500.0,
             "Target": "Alexis Pascual",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5025_RubyClunas.jpeg\"><br> Rank: 38<br>Ruby Clunas<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5025_RubyClunas.jpeg\"><br> Rank: 41<br>Ruby Clunas<br>1 tags",
             "Points": 0,
-            "Rank": 38
+            "Rank": 41
         },
         "Alex Zhou": {
             "Name": "Alex Zhou",
@@ -444,9 +444,9 @@
             "Tags": 0,
             "Last Tagged": 1741084200.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/2537530A-13E0-4151-B952-BD44EBEBA77F_AlexZhou.jpeg\"><br>Rank: 87<br> Alex Zhou<br>Tagged by Shaya Venktes on 03-04",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/2537530A-13E0-4151-B952-BD44EBEBA77F_AlexZhou.jpeg\"><br>Rank: 93<br> Alex Zhou<br>Tagged by Shaya Venktes on 03-04",
             "Points": 0,
-            "Rank": 87
+            "Rank": 93
         },
         "Amaan Ali": {
             "Name": "Amaan Ali",
@@ -460,9 +460,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Cora Walshe",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/20250131_234521_AmaanAli.jpg\"><br> Rank: 43<br>Amaan Ali",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/20250131_234521_AmaanAli.jpg\"><br> Rank: 45<br>Amaan Ali",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Katie Stubbings": {
             "Name": "Katie Stubbings",
@@ -476,9 +476,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Mya Wiggins",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4889_KatieStubbings.jpeg\"><br> Rank: 43<br>Katie Stubbings",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4889_KatieStubbings.jpeg\"><br> Rank: 45<br>Katie Stubbings",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Evan Stubbings": {
             "Name": "Evan Stubbings",
@@ -492,9 +492,9 @@
             "Tags": 2,
             "Last Tagged": 1741188780.0000002,
             "Target": "Alex Skuce",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1390_EvanStubbings.jpeg\"><br> Rank: 12<br>Evan Stubbings<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1390_EvanStubbings.jpeg\"><br> Rank: 13<br>Evan Stubbings<br>2 tags",
             "Points": 0,
-            "Rank": 12
+            "Rank": 13
         },
         "Sophie Baker": {
             "Name": "Sophie Baker",
@@ -508,9 +508,9 @@
             "Tags": 2,
             "Last Tagged": 1741353240.0,
             "Target": "Olivia Osborne",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9083_SophieBaker.jpeg\"><br> Rank: 9<br>Sophie Baker<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9083_SophieBaker.jpeg\"><br> Rank: 11<br>Sophie Baker<br>2 tags",
             "Points": 0,
-            "Rank": 9
+            "Rank": 11
         },
         "EJ Galang": {
             "Name": "EJ Galang",
@@ -524,9 +524,9 @@
             "Tags": 0,
             "Last Tagged": 1740566040.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_4153_EJGalang.jpeg\"><br>Rank: 101<br> EJ Galang<br>Tagged by Ryan Cheng on 02-26",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_4153_EJGalang.jpeg\"><br>Rank: 107<br> EJ Galang<br>Tagged by Ryan Cheng on 02-26",
             "Points": 0,
-            "Rank": 101
+            "Rank": 107
         },
         "Jayde Forster": {
             "Name": "Jayde Forster",
@@ -540,9 +540,9 @@
             "Tags": 2,
             "Last Tagged": 1741940580.0000002,
             "Target": "Dylan Patrick",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_20241217_091627_952_JaydeForster.jpg\"><br> Rank: 5<br>Jayde Forster<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_20241217_091627_952_JaydeForster.jpg\"><br> Rank: 7<br>Jayde Forster<br>2 tags",
             "Points": 0,
-            "Rank": 5
+            "Rank": 7
         },
         "Cora Walshe": {
             "Name": "Cora Walshe",
@@ -556,9 +556,9 @@
             "Tags": 3,
             "Last Tagged": 1741352340.0000002,
             "Target": "Daniel Park",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9116_CoraWalshe.jpeg\"><br> Rank: 3<br>Cora Walshe<br>3 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9116_CoraWalshe.jpeg\"><br> Rank: 4<br>Cora Walshe<br>3 tags",
             "Points": 0,
-            "Rank": 3
+            "Rank": 4
         },
         "Ted Harrison": {
             "Name": "Ted Harrison",
@@ -572,9 +572,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Makayla Papp",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3214_TedHarrison.jpeg\"><br> Rank: 43<br>Ted Harrison",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3214_TedHarrison.jpeg\"><br> Rank: 45<br>Ted Harrison",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Armaani Kaila": {
             "Name": "Armaani Kaila",
@@ -582,15 +582,15 @@
             "HandleIG": "armaanikaila",
             "Photo": "default.png",
             "Tagger": "",
-            "Date": "03-06",
+            "Date": "04-02",
             "Ranking": -1,
             "Alive": true,
-            "Tags": 2,
-            "Last Tagged": 1741263659.9999998,
-            "Target": "Eshaan Bali",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 11<br>Armaani Kaila<br>2 tags",
+            "Tags": 3,
+            "Last Tagged": 1743589919.9999998,
+            "Target": "Christian Che",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 2<br>Armaani Kaila<br>3 tags",
             "Points": 0,
-            "Rank": 11
+            "Rank": 2
         },
         "Paris Pitt": {
             "Name": "Paris Pitt",
@@ -604,9 +604,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Sarmed Bek",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7815_ParisPitt.jpeg\"><br> Rank: 43<br>Paris Pitt",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7815_ParisPitt.jpeg\"><br> Rank: 45<br>Paris Pitt",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Krishalee Leeme": {
             "Name": "Krishalee Leeme",
@@ -620,9 +620,9 @@
             "Tags": 0,
             "Last Tagged": 1740739859.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 94<br> Krishalee Leeme<br>Tagged by Morgan Jackson on 02-28",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 100<br> Krishalee Leeme<br>Tagged by Morgan Jackson on 02-28",
             "Points": 0,
-            "Rank": 94
+            "Rank": 100
         },
         "Dominic De Leon": {
             "Name": "Dominic De Leon",
@@ -636,9 +636,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Connor Scott",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1942_DominicDeLeon.jpeg\"><br> Rank: 43<br>Dominic De Leon",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1942_DominicDeLeon.jpeg\"><br> Rank: 45<br>Dominic De Leon",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Eric Mitchell": {
             "Name": "Eric Mitchell",
@@ -652,9 +652,9 @@
             "Tags": 0,
             "Last Tagged": 1741574700.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/Snapchat-282728234_EricMitchell.jpg\"><br>Rank: 61<br> Eric Mitchell<br>Tagged by Himmit Virk on 03-10",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/Snapchat-282728234_EricMitchell.jpg\"><br>Rank: 67<br> Eric Mitchell<br>Tagged by Himmit Virk on 03-10",
             "Points": 0,
-            "Rank": 61
+            "Rank": 67
         },
         "Connor Sokacz": {
             "Name": "Connor Sokacz",
@@ -668,9 +668,9 @@
             "Tags": 0,
             "Last Tagged": 1740739920.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/1000019328_ConnorSokacz.jpeg\"><br>Rank: 93<br> Connor Sokacz<br>Tagged by Kai Douangchanh on 02-28",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/1000019328_ConnorSokacz.jpeg\"><br>Rank: 99<br> Connor Sokacz<br>Tagged by Kai Douangchanh on 02-28",
             "Points": 0,
-            "Rank": 93
+            "Rank": 99
         },
         "Jide Lindsay": {
             "Name": "Jide Lindsay",
@@ -684,9 +684,9 @@
             "Tags": 1,
             "Last Tagged": 1741336379.9999998,
             "Target": "Ryan Cheng",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 29<br>Jide Lindsay<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 32<br>Jide Lindsay<br>1 tags",
             "Points": 0,
-            "Rank": 29
+            "Rank": 32
         },
         "Braelyn Patterson": {
             "Name": "Braelyn Patterson",
@@ -700,9 +700,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Eliot Rogers",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3135_BraelynPatterson.jpeg\"><br> Rank: 43<br>Braelyn Patterson",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3135_BraelynPatterson.jpeg\"><br> Rank: 45<br>Braelyn Patterson",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Analisa Festing": {
             "Name": "Analisa Festing",
@@ -716,9 +716,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Arjun Randhawa",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Analisa Festing",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Analisa Festing",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Haley Jones": {
             "Name": "Haley Jones",
@@ -732,9 +732,9 @@
             "Tags": 3,
             "Last Tagged": 1741694400.0,
             "Target": "Jason Puchniak",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/1D6A6D8D-894E-4FA7-9F1C-394C2F2A03FB_HaleyJones.jpeg\"><br> Rank: 2<br>Haley Jones<br>3 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/1D6A6D8D-894E-4FA7-9F1C-394C2F2A03FB_HaleyJones.jpeg\"><br> Rank: 3<br>Haley Jones<br>3 tags",
             "Points": 0,
-            "Rank": 2
+            "Rank": 3
         },
         "Maxim Perreault": {
             "Name": "Maxim Perreault",
@@ -748,9 +748,9 @@
             "Tags": 1,
             "Last Tagged": 1741347120.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_9955_MaximPerreault.jpeg\"><br>Rank: 49<br> Maxim Perreault<br>Tagged by Hudson Wilson on 03-07<br>1 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_9955_MaximPerreault.jpeg\"><br>Rank: 51<br> Maxim Perreault<br>Tagged by Hudson Wilson on 03-07<br>1 tags",
             "Points": 0,
-            "Rank": 49
+            "Rank": 51
         },
         "Dylan Patrick": {
             "Name": "Dylan Patrick",
@@ -764,9 +764,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Sienna Church",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3599_DylanPatrick.jpeg\"><br> Rank: 43<br>Dylan Patrick",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3599_DylanPatrick.jpeg\"><br> Rank: 45<br>Dylan Patrick",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Alexei Lobaznyuk": {
             "Name": "Alexei Lobaznyuk",
@@ -780,9 +780,9 @@
             "Tags": 1,
             "Last Tagged": 1741849740.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_4364_AlexeiLobaznyuk.jpeg\"><br>Rank: 46<br> Alexei Lobaznyuk<br>Tagged by Avery Walshe on 03-13<br>1 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_4364_AlexeiLobaznyuk.jpeg\"><br>Rank: 48<br> Alexei Lobaznyuk<br>Tagged by Avery Walshe on 03-13<br>1 tags",
             "Points": 0,
-            "Rank": 46
+            "Rank": 48
         },
         "Sean Kerbrat": {
             "Name": "Sean Kerbrat",
@@ -796,9 +796,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Evan Stubbings",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5609_SeanKerbrat.jpeg\"><br> Rank: 43<br>Sean Kerbrat",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5609_SeanKerbrat.jpeg\"><br> Rank: 45<br>Sean Kerbrat",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Tommy Vuong": {
             "Name": "Tommy Vuong",
@@ -812,9 +812,9 @@
             "Tags": 2,
             "Last Tagged": 1741375440.0,
             "Target": "Alex Wates",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2322_TommyVuong.jpeg\"><br> Rank: 8<br>Tommy Vuong<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2322_TommyVuong.jpeg\"><br> Rank: 10<br>Tommy Vuong<br>2 tags",
             "Points": 0,
-            "Rank": 8
+            "Rank": 10
         },
         "Dylan Jones": {
             "Name": "Dylan Jones",
@@ -828,9 +828,9 @@
             "Tags": 0,
             "Last Tagged": 1740654000.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_4034_DylanJones.jpeg\"><br>Rank: 98<br> Dylan Jones<br>Tagged by Cora Walshe on 02-27",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_4034_DylanJones.jpeg\"><br>Rank: 104<br> Dylan Jones<br>Tagged by Cora Walshe on 02-27",
             "Points": 0,
-            "Rank": 98
+            "Rank": 104
         },
         "Alexis Pascual": {
             "Name": "Alexis Pascual",
@@ -844,9 +844,9 @@
             "Tags": 1,
             "Last Tagged": 1741598580.0,
             "Target": "Aron Yu",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 21<br>Alexis Pascual<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 24<br>Alexis Pascual<br>1 tags",
             "Points": 0,
-            "Rank": 21
+            "Rank": 24
         },
         "Maisie St James": {
             "Name": "Maisie St James",
@@ -860,9 +860,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Kai Douangchanh",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8935_MaisieStJames.jpeg\"><br> Rank: 43<br>Maisie St James",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8935_MaisieStJames.jpeg\"><br> Rank: 45<br>Maisie St James",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Roxana Paredes": {
             "Name": "Roxana Paredes",
@@ -876,25 +876,25 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Markus Laureano",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2902_RoxanaParedes.jpeg\"><br> Rank: 43<br>Roxana Paredes",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2902_RoxanaParedes.jpeg\"><br> Rank: 45<br>Roxana Paredes",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Jesse McCreath": {
             "Name": "Jesse McCreath",
             "Email": "j.mccreath@surreyschools.ca",
             "HandleIG": "jesse._.mccreath ",
             "Photo": "default.png",
-            "Tagger": "",
-            "Date": "",
+            "Tagger": "Navleen Purewal",
+            "Date": "04-03",
             "Ranking": -1,
-            "Alive": true,
+            "Alive": false,
             "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Shaya Venktes",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Jesse McCreath",
+            "Last Tagged": 1743673320.0,
+            "Target": "--",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 55<br> Jesse McCreath<br>Tagged by Navleen Purewal on 04-03",
             "Points": 0,
-            "Rank": 43
+            "Rank": 55
         },
         "Eliot Rogers": {
             "Name": "Eliot Rogers",
@@ -908,9 +908,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Alexei Lobaznyuk",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4521_EliotRogers.png\"><br> Rank: 43<br>Eliot Rogers",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4521_EliotRogers.png\"><br> Rank: 45<br>Eliot Rogers",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Sienna Church": {
             "Name": "Sienna Church",
@@ -924,9 +924,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Madelyn Vuilleumier",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4763_SiennaChurch.jpeg\"><br> Rank: 43<br>Sienna Church",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4763_SiennaChurch.jpeg\"><br> Rank: 45<br>Sienna Church",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Harry Wheaton": {
             "Name": "Harry Wheaton",
@@ -940,9 +940,9 @@
             "Tags": 0,
             "Last Tagged": 1741688519.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_6313_HarryWheaton.jpeg\"><br>Rank: 57<br> Harry Wheaton<br>Tagged by Makayla Papp on 03-11",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_6313_HarryWheaton.jpeg\"><br>Rank: 63<br> Harry Wheaton<br>Tagged by Makayla Papp on 03-11",
             "Points": 0,
-            "Rank": 57
+            "Rank": 63
         },
         "Declan Irving": {
             "Name": "Declan Irving",
@@ -956,9 +956,9 @@
             "Tags": 0,
             "Last Tagged": 1740739859.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2448_DeclanIrving.png\"><br>Rank: 94<br> Declan Irving<br>Tagged by Amani Shamoon on 02-28",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2448_DeclanIrving.png\"><br>Rank: 100<br> Declan Irving<br>Tagged by Amani Shamoon on 02-28",
             "Points": 0,
-            "Rank": 94
+            "Rank": 100
         },
         "Samuel Smith": {
             "Name": "Samuel Smith",
@@ -972,9 +972,9 @@
             "Tags": 1,
             "Last Tagged": 1741375440.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1335_SamuelSmith.jpeg\"><br>Rank: 47<br> Samuel Smith<br>Tagged by Tommy Vuong on 03-07<br>1 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1335_SamuelSmith.jpeg\"><br>Rank: 49<br> Samuel Smith<br>Tagged by Tommy Vuong on 03-07<br>1 tags",
             "Points": 0,
-            "Rank": 47
+            "Rank": 49
         },
         "Keira Kelly": {
             "Name": "Keira Kelly",
@@ -988,9 +988,9 @@
             "Tags": 1,
             "Last Tagged": 1741775100.0000002,
             "Target": "Jide Lindsay",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7780_KeiraKelly.png\"><br> Rank: 17<br>Keira Kelly<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7780_KeiraKelly.png\"><br> Rank: 20<br>Keira Kelly<br>1 tags",
             "Points": 0,
-            "Rank": 17
+            "Rank": 20
         },
         "Hannah Fielder": {
             "Name": "Hannah Fielder",
@@ -1004,9 +1004,9 @@
             "Tags": 0,
             "Last Tagged": 1741348980.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0712_HannahFielder.jpeg\"><br>Rank: 69<br> Hannah Fielder<br>Tagged by Paula Jerusalem on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0712_HannahFielder.jpeg\"><br>Rank: 75<br> Hannah Fielder<br>Tagged by Paula Jerusalem on 03-07",
             "Points": 0,
-            "Rank": 69
+            "Rank": 75
         },
         "Joshua Daum": {
             "Name": "Joshua Daum",
@@ -1020,9 +1020,9 @@
             "Tags": 0,
             "Last Tagged": 1741264259.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2145_JoshuaDaum.jpeg\"><br>Rank: 78<br> Joshua Daum<br>Tagged by Makayla Papp on 03-06",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2145_JoshuaDaum.jpeg\"><br>Rank: 84<br> Joshua Daum<br>Tagged by Makayla Papp on 03-06",
             "Points": 0,
-            "Rank": 78
+            "Rank": 84
         },
         "Nate Hyland": {
             "Name": "Nate Hyland",
@@ -1036,9 +1036,9 @@
             "Tags": 1,
             "Last Tagged": 1741702439.9999998,
             "Target": "Navleen Purewal",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8348_NateHyland.png\"><br> Rank: 18<br>Nate Hyland<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_8348_NateHyland.png\"><br> Rank: 21<br>Nate Hyland<br>1 tags",
             "Points": 0,
-            "Rank": 18
+            "Rank": 21
         },
         "Caydence Burrows": {
             "Name": "Caydence Burrows",
@@ -1052,9 +1052,9 @@
             "Tags": 0,
             "Last Tagged": 1741940580.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1236_CaydenceBurrows.jpeg\"><br>Rank: 54<br> Caydence Burrows<br>Tagged by Jayde Forster on 03-14",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1236_CaydenceBurrows.jpeg\"><br>Rank: 60<br> Caydence Burrows<br>Tagged by Jayde Forster on 03-14",
             "Points": 0,
-            "Rank": 54
+            "Rank": 60
         },
         "Landon Mills": {
             "Name": "Landon Mills",
@@ -1068,9 +1068,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Parinoor Bal",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Landon Mills",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Landon Mills",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Alice Chen": {
             "Name": "Alice Chen",
@@ -1084,9 +1084,9 @@
             "Tags": 0,
             "Last Tagged": 1741336379.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_7207_AliceChen.png\"><br>Rank: 74<br> Alice Chen<br>Tagged by Jide Lindsay on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_7207_AliceChen.png\"><br>Rank: 80<br> Alice Chen<br>Tagged by Jide Lindsay on 03-07",
             "Points": 0,
-            "Rank": 74
+            "Rank": 80
         },
         "Daniel Park": {
             "Name": "Daniel Park",
@@ -1100,9 +1100,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Riya Bhangu",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6367_DanielPark.jpeg\"><br> Rank: 43<br>Daniel Park",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6367_DanielPark.jpeg\"><br> Rank: 45<br>Daniel Park",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Kiana Kelly": {
             "Name": "Kiana Kelly",
@@ -1116,25 +1116,25 @@
             "Tags": 1,
             "Last Tagged": 1740664800.0000002,
             "Target": "Damon Warwick",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2211_Original_KianaKelly.jpeg\"><br> Rank: 35<br>Kiana Kelly<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2211_Original_KianaKelly.jpeg\"><br> Rank: 38<br>Kiana Kelly<br>1 tags",
             "Points": 0,
-            "Rank": 35
+            "Rank": 38
         },
         "Eshaan Bali": {
             "Name": "Eshaan Bali",
             "Email": "e.bali@surreyschools.ca",
             "HandleIG": "eshaan_bali",
             "Photo": "17387907531234433750182546802865_EshaanBali.jpg",
-            "Tagger": "",
-            "Date": "",
+            "Tagger": "Armaani Kaila",
+            "Date": "04-02",
             "Ranking": -1,
-            "Alive": true,
+            "Alive": false,
             "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Christian Che",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/17387907531234433750182546802865_EshaanBali.jpg\"><br> Rank: 43<br>Eshaan Bali",
+            "Last Tagged": 1743589919.9999998,
+            "Target": "--",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/17387907531234433750182546802865_EshaanBali.jpg\"><br>Rank: 56<br> Eshaan Bali<br>Tagged by Armaani Kaila on 04-02",
             "Points": 0,
-            "Rank": 43
+            "Rank": 56
         },
         "Bhargavi Aggarwal": {
             "Name": "Bhargavi Aggarwal",
@@ -1148,9 +1148,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Armaani Kaila",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Bhargavi Aggarwal",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Bhargavi Aggarwal",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Jaisha Malik": {
             "Name": "Jaisha Malik",
@@ -1164,9 +1164,9 @@
             "Tags": 1,
             "Last Tagged": 1741350180.0,
             "Target": "Mateya Baumer",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 26<br>Jaisha Malik<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 29<br>Jaisha Malik<br>1 tags",
             "Points": 0,
-            "Rank": 26
+            "Rank": 29
         },
         "Madeline Kim": {
             "Name": "Madeline Kim",
@@ -1180,9 +1180,9 @@
             "Tags": 1,
             "Last Tagged": 1741272660.0000002,
             "Target": "Sadie Swinimer",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 30<br>Madeline Kim<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 33<br>Madeline Kim<br>1 tags",
             "Points": 0,
-            "Rank": 30
+            "Rank": 33
         },
         "Jeevan Dhaliwal": {
             "Name": "Jeevan Dhaliwal",
@@ -1196,9 +1196,9 @@
             "Tags": 0,
             "Last Tagged": 1740481619.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0158_JeevanDhaliwal.jpeg\"><br>Rank: 104<br> Jeevan Dhaliwal<br>Tagged by Morgan Jackson on 02-25",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0158_JeevanDhaliwal.jpeg\"><br>Rank: 110<br> Jeevan Dhaliwal<br>Tagged by Morgan Jackson on 02-25",
             "Points": 0,
-            "Rank": 104
+            "Rank": 110
         },
         "Morgan Jackson": {
             "Name": "Morgan Jackson",
@@ -1212,9 +1212,9 @@
             "Tags": 2,
             "Last Tagged": 1741702439.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_4429_MorganJackson.jpeg\"><br>Rank: 44<br> Morgan Jackson<br>Tagged by Nate Hyland on 03-11<br>2 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_4429_MorganJackson.jpeg\"><br>Rank: 46<br> Morgan Jackson<br>Tagged by Nate Hyland on 03-11<br>2 tags",
             "Points": 0,
-            "Rank": 44
+            "Rank": 46
         },
         "Akshaj Arora": {
             "Name": "Akshaj Arora",
@@ -1228,9 +1228,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Jino Yoon",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2306_AkshajArora.jpeg\"><br> Rank: 43<br>Akshaj Arora",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2306_AkshajArora.jpeg\"><br> Rank: 45<br>Akshaj Arora",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Sadie Swinimer": {
             "Name": "Sadie Swinimer",
@@ -1244,9 +1244,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Braelyn Patterson",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6572_SadieSwinimer.jpeg\"><br> Rank: 43<br>Sadie Swinimer",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6572_SadieSwinimer.jpeg\"><br> Rank: 45<br>Sadie Swinimer",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Hannah Dela Torre": {
             "Name": "Hannah Dela Torre",
@@ -1260,9 +1260,9 @@
             "Tags": 1,
             "Last Tagged": 1741352820.0,
             "Target": "Amirah Kajla",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2041_HannahDelaTorre.jpeg\"><br> Rank: 24<br>Hannah Dela Torre<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2041_HannahDelaTorre.jpeg\"><br> Rank: 27<br>Hannah Dela Torre<br>1 tags",
             "Points": 0,
-            "Rank": 24
+            "Rank": 27
         },
         "Nevaeh Nair": {
             "Name": "Nevaeh Nair",
@@ -1276,9 +1276,9 @@
             "Tags": 0,
             "Last Tagged": 1740750180.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_8402_NevaehNair.jpeg\"><br>Rank: 91<br> Nevaeh Nair<br>Tagged by Evan Stubbings on 02-28",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_8402_NevaehNair.jpeg\"><br>Rank: 97<br> Nevaeh Nair<br>Tagged by Evan Stubbings on 02-28",
             "Points": 0,
-            "Rank": 91
+            "Rank": 97
         },
         "Jess LaPierre": {
             "Name": "Jess LaPierre",
@@ -1292,9 +1292,9 @@
             "Tags": 2,
             "Last Tagged": 1740489600.0,
             "Target": "Ryan So",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0363_JessLaPierre.jpeg\"><br> Rank: 14<br>Jess LaPierre<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0363_JessLaPierre.jpeg\"><br> Rank: 15<br>Jess LaPierre<br>2 tags",
             "Points": 0,
-            "Rank": 14
+            "Rank": 15
         },
         "Brian Ha": {
             "Name": "Brian Ha",
@@ -1308,9 +1308,9 @@
             "Tags": 0,
             "Last Tagged": 1740752580.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/image_BrianHa.jpg\"><br>Rank: 90<br> Brian Ha<br>Tagged by Nicholas Kelly on 02-28",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/image_BrianHa.jpg\"><br>Rank: 96<br> Brian Ha<br>Tagged by Nicholas Kelly on 02-28",
             "Points": 0,
-            "Rank": 90
+            "Rank": 96
         },
         "Scott Larsen": {
             "Name": "Scott Larsen",
@@ -1324,9 +1324,9 @@
             "Tags": 1,
             "Last Tagged": 1741119839.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_3290_ScottLarsen.jpeg\"><br>Rank: 50<br> Scott Larsen<br>Tagged by Jaeden Potter on 03-04<br>1 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_3290_ScottLarsen.jpeg\"><br>Rank: 52<br> Scott Larsen<br>Tagged by Jaeden Potter on 03-04<br>1 tags",
             "Points": 0,
-            "Rank": 50
+            "Rank": 52
         },
         "Tenel Enns": {
             "Name": "Tenel Enns",
@@ -1340,9 +1340,9 @@
             "Tags": 0,
             "Last Tagged": 1741311180.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_7237_TenelEnns.png\"><br>Rank: 76<br> Tenel Enns<br>Tagged by Hudson Wilson on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_7237_TenelEnns.png\"><br>Rank: 82<br> Tenel Enns<br>Tagged by Hudson Wilson on 03-07",
             "Points": 0,
-            "Rank": 76
+            "Rank": 82
         },
         "Elliot Jackson": {
             "Name": "Elliot Jackson",
@@ -1356,9 +1356,9 @@
             "Tags": 0,
             "Last Tagged": 1740431040.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1905_ElliotJackson.jpeg\"><br>Rank: 106<br> Elliot Jackson<br>Tagged by Jess LaPierre on 02-24",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1905_ElliotJackson.jpeg\"><br>Rank: 112<br> Elliot Jackson<br>Tagged by Jess LaPierre on 02-24",
             "Points": 0,
-            "Rank": 106
+            "Rank": 112
         },
         "Anuree Johnston": {
             "Name": "Anuree Johnston",
@@ -1372,9 +1372,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Mia Ewasiuk",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_GT_Anuree.jpg\"><br> Rank: 43<br>Anuree Johnston",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_GT_Anuree.jpg\"><br> Rank: 45<br>Anuree Johnston",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Ashli Cox": {
             "Name": "Ashli Cox",
@@ -1388,9 +1388,9 @@
             "Tags": 1,
             "Last Tagged": 1741343159.9999998,
             "Target": "Carmella Dares",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3529_AshliCox.jpeg\"><br> Rank: 28<br>Ashli Cox<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3529_AshliCox.jpeg\"><br> Rank: 31<br>Ashli Cox<br>1 tags",
             "Points": 0,
-            "Rank": 28
+            "Rank": 31
         },
         "Lauren MacNeil": {
             "Name": "Lauren MacNeil",
@@ -1404,9 +1404,9 @@
             "Tags": 1,
             "Last Tagged": 1740568500.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0288_LaurenMacNeil.jpeg\"><br>Rank: 51<br> Lauren MacNeil<br>Tagged by Ruby Clunas on 02-26<br>1 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0288_LaurenMacNeil.jpeg\"><br>Rank: 53<br> Lauren MacNeil<br>Tagged by Ruby Clunas on 02-26<br>1 tags",
             "Points": 0,
-            "Rank": 51
+            "Rank": 53
         },
         "Caleb Crooks": {
             "Name": "Caleb Crooks",
@@ -1420,9 +1420,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Hudson Wilson",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2903_CalebCrooks.jpeg\"><br> Rank: 43<br>Caleb Crooks",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2903_CalebCrooks.jpeg\"><br> Rank: 45<br>Caleb Crooks",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Ryan Cheng": {
             "Name": "Ryan Cheng",
@@ -1436,9 +1436,9 @@
             "Tags": 1,
             "Last Tagged": 1740566040.0000002,
             "Target": "Jared Mackie",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6768_RyanCheng.jpeg\"><br> Rank: 39<br>Ryan Cheng<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6768_RyanCheng.jpeg\"><br> Rank: 42<br>Ryan Cheng<br>1 tags",
             "Points": 0,
-            "Rank": 39
+            "Rank": 42
         },
         "Connor Scott": {
             "Name": "Connor Scott",
@@ -1452,9 +1452,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Therese Nguyen",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/90E170D2-5853-4F79-89F0-3FACE983F854_ConnorScott.jpeg\"><br> Rank: 43<br>Connor Scott",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/90E170D2-5853-4F79-89F0-3FACE983F854_ConnorScott.jpeg\"><br> Rank: 45<br>Connor Scott",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Alicia Paris": {
             "Name": "Alicia Paris",
@@ -1468,9 +1468,9 @@
             "Tags": 0,
             "Last Tagged": 1741350780.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/AliciaParisGradtag25_AliciaParis.JPG\"><br>Rank: 67<br> Alicia Paris<br>Tagged by Sophia Fraser on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/AliciaParisGradtag25_AliciaParis.JPG\"><br>Rank: 73<br> Alicia Paris<br>Tagged by Sophia Fraser on 03-07",
             "Points": 0,
-            "Rank": 67
+            "Rank": 73
         },
         "Wyatt Weir": {
             "Name": "Wyatt Weir",
@@ -1484,9 +1484,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Harrison Bartley",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7841_WyattWeir.png\"><br> Rank: 43<br>Wyatt Weir",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7841_WyattWeir.png\"><br> Rank: 45<br>Wyatt Weir",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Miguel Flores Salceda": {
             "Name": "Miguel Flores Salceda",
@@ -1500,9 +1500,9 @@
             "Tags": 0,
             "Last Tagged": 1741346160.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/31772397-DDCB-46D4-9B6B-E7C84F344B22_MiguelFloresSalced.jpeg\"><br>Rank: 71<br> Miguel Flores Salceda<br>Tagged by Amani Shamoon on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/31772397-DDCB-46D4-9B6B-E7C84F344B22_MiguelFloresSalced.jpeg\"><br>Rank: 77<br> Miguel Flores Salceda<br>Tagged by Amani Shamoon on 03-07",
             "Points": 0,
-            "Rank": 71
+            "Rank": 77
         },
         "Aderinsola Solabomi": {
             "Name": "Aderinsola Solabomi",
@@ -1516,9 +1516,9 @@
             "Tags": 0,
             "Last Tagged": 1740572640.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/20250209_173924_AderinsolaSolabomi.jpg\"><br>Rank: 99<br> Aderinsola Solabomi<br>Tagged by Hudson Wilson on 02-26",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/20250209_173924_AderinsolaSolabomi.jpg\"><br>Rank: 105<br> Aderinsola Solabomi<br>Tagged by Hudson Wilson on 02-26",
             "Points": 0,
-            "Rank": 99
+            "Rank": 105
         },
         "Harnagad Sidhu": {
             "Name": "Harnagad Sidhu",
@@ -1532,9 +1532,9 @@
             "Tags": 0,
             "Last Tagged": 1741258020.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/Harangad_IMG_GT.jpeg\"><br>Rank: 84<br> Harnagad Sidhu<br>Tagged by Hudson Wilson on 03-06",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/Harangad_IMG_GT.jpeg\"><br>Rank: 90<br> Harnagad Sidhu<br>Tagged by Hudson Wilson on 03-06",
             "Points": 0,
-            "Rank": 84
+            "Rank": 90
         },
         "Adam Bennett": {
             "Name": "Adam Bennett",
@@ -1548,9 +1548,9 @@
             "Tags": 1,
             "Last Tagged": 1743426420.0,
             "Target": "Samantha Crowder",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4342_AdamBennett.jpeg\"><br> Rank: 15<br>Adam Bennett<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4342_AdamBennett.jpeg\"><br> Rank: 18<br>Adam Bennett<br>1 tags",
             "Points": 0,
-            "Rank": 15
+            "Rank": 18
         },
         "Jino Yoon": {
             "Name": "Jino Yoon",
@@ -1564,9 +1564,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Tenel Enns",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0746_JinoYoon.jpeg\"><br> Rank: 43<br>Jino Yoon",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0746_JinoYoon.jpeg\"><br> Rank: 45<br>Jino Yoon",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Sophia Fraser": {
             "Name": "Sophia Fraser",
@@ -1580,9 +1580,9 @@
             "Tags": 1,
             "Last Tagged": 1741350780.0000002,
             "Target": "Paula Jerusalem",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 25<br>Sophia Fraser<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 28<br>Sophia Fraser<br>1 tags",
             "Points": 0,
-            "Rank": 25
+            "Rank": 28
         },
         "Destiny Manzano": {
             "Name": "Destiny Manzano",
@@ -1596,9 +1596,9 @@
             "Tags": 0,
             "Last Tagged": 1741263659.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2425_DestinyManzano.jpeg\"><br>Rank: 79<br> Destiny Manzano<br>Tagged by Armaani Kaila on 03-06",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2425_DestinyManzano.jpeg\"><br>Rank: 85<br> Destiny Manzano<br>Tagged by Armaani Kaila on 03-06",
             "Points": 0,
-            "Rank": 79
+            "Rank": 85
         },
         "Ellie Milligan": {
             "Name": "Ellie Milligan",
@@ -1612,9 +1612,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Himmit Virk",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1758_EllieMilligan.jpeg\"><br> Rank: 43<br>Ellie Milligan",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1758_EllieMilligan.jpeg\"><br> Rank: 45<br>Ellie Milligan",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Lucia Bayne": {
             "Name": "Lucia Bayne",
@@ -1628,9 +1628,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Caleb Crooks",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/2024-10-27_B241027-0187_hires_retouched_LuciaBayne.jpeg\"><br> Rank: 43<br>Lucia Bayne",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/2024-10-27_B241027-0187_hires_retouched_LuciaBayne.jpeg\"><br> Rank: 45<br>Lucia Bayne",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Ethan Kelly": {
             "Name": "Ethan Kelly",
@@ -1644,9 +1644,9 @@
             "Tags": 0,
             "Last Tagged": 1741001399.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2116_EthanKelly.jpeg\"><br>Rank: 89<br> Ethan Kelly<br>Tagged by Wilson McLean on 03-03",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2116_EthanKelly.jpeg\"><br>Rank: 95<br> Ethan Kelly<br>Tagged by Wilson McLean on 03-03",
             "Points": 0,
-            "Rank": 89
+            "Rank": 95
         },
         "Carmella Dares": {
             "Name": "Carmella Dares",
@@ -1660,9 +1660,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Lucia Bayne",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Carmella Dares",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Carmella Dares",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Devon Martinez": {
             "Name": "Devon Martinez",
@@ -1676,9 +1676,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Amani Shamoon",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6746_DevonMartinez.jpeg\"><br> Rank: 43<br>Devon Martinez",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6746_DevonMartinez.jpeg\"><br> Rank: 45<br>Devon Martinez",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Madelyn Vuilleumier": {
             "Name": "Madelyn Vuilleumier",
@@ -1692,9 +1692,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Samantha Rego",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5599_MadelynVuilleumier.jpeg\"><br> Rank: 43<br>Madelyn Vuilleumier",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5599_MadelynVuilleumier.jpeg\"><br> Rank: 45<br>Madelyn Vuilleumier",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Therese Nguyen": {
             "Name": "Therese Nguyen",
@@ -1708,9 +1708,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Ashli Cox",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Therese Nguyen",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Therese Nguyen",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Hudson Wilson": {
             "Name": "Hudson Wilson",
@@ -1740,9 +1740,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Ruby Clunas",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0295_HarrisonBartley.jpeg\"><br> Rank: 43<br>Harrison Bartley",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0295_HarrisonBartley.jpeg\"><br> Rank: 45<br>Harrison Bartley",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Markus Laureano": {
             "Name": "Markus Laureano",
@@ -1756,25 +1756,25 @@
             "Tags": 1,
             "Last Tagged": 1741598820.0000002,
             "Target": "Oliver Laporte",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5964_MarkusLaureano.jpeg\"><br> Rank: 20<br>Markus Laureano<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5964_MarkusLaureano.jpeg\"><br> Rank: 23<br>Markus Laureano<br>1 tags",
             "Points": 0,
-            "Rank": 20
+            "Rank": 23
         },
         "Liam Quan": {
             "Name": "Liam Quan",
             "Email": "l.quan@surreyschools.ca",
             "HandleIG": "liamquann",
             "Photo": "GT_LIAM.jpg",
-            "Tagger": "",
-            "Date": "",
+            "Tagger": "Jakob Teichrieb",
+            "Date": "04-04",
             "Ranking": -1,
-            "Alive": true,
+            "Alive": false,
             "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Landon Mills",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/GT_LIAM.jpg\"><br> Rank: 43<br>Liam Quan",
+            "Last Tagged": 1743776760.0000002,
+            "Target": "--",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/GT_LIAM.jpg\"><br>Rank: 54<br> Liam Quan<br>Tagged by Jakob Teichrieb on 04-04",
             "Points": 0,
-            "Rank": 43
+            "Rank": 54
         },
         "Oliver Laporte": {
             "Name": "Oliver Laporte",
@@ -1788,9 +1788,9 @@
             "Tags": 1,
             "Last Tagged": 1742359080.0000002,
             "Target": "Justin Tran",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/DSC_1305_OliverLaporte.jpeg\"><br> Rank: 16<br>Oliver Laporte<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/DSC_1305_OliverLaporte.jpeg\"><br> Rank: 19<br>Oliver Laporte<br>1 tags",
             "Points": 0,
-            "Rank": 16
+            "Rank": 19
         },
         "Nixon Pech": {
             "Name": "Nixon Pech",
@@ -1804,9 +1804,9 @@
             "Tags": 2,
             "Last Tagged": 1741278660.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1712_NixonPech.jpeg\"><br>Rank: 45<br> Nixon Pech<br>Tagged by Sophie Baker on 03-06<br>2 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1712_NixonPech.jpeg\"><br>Rank: 47<br> Nixon Pech<br>Tagged by Sophie Baker on 03-06<br>2 tags",
             "Points": 0,
-            "Rank": 45
+            "Rank": 47
         },
         "Eugene Lee": {
             "Name": "Eugene Lee",
@@ -1820,9 +1820,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Avery Walshe",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0441_EugeneLee.jpeg\"><br> Rank: 43<br>Eugene Lee",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_0441_EugeneLee.jpeg\"><br> Rank: 45<br>Eugene Lee",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Simran Rayat": {
             "Name": "Simran Rayat",
@@ -1836,9 +1836,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Jaisha Malik",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9552_SimranRayat.jpeg\"><br> Rank: 43<br>Simran Rayat",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9552_SimranRayat.jpeg\"><br> Rank: 45<br>Simran Rayat",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Arjun Randhawa": {
             "Name": "Arjun Randhawa",
@@ -1852,9 +1852,9 @@
             "Tags": 1,
             "Last Tagged": 1740654900.0,
             "Target": "Jocelyn Roberts",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/image_ArjunRandhawa.jpg\"><br> Rank: 37<br>Arjun Randhawa<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/image_ArjunRandhawa.jpg\"><br> Rank: 40<br>Arjun Randhawa<br>1 tags",
             "Points": 0,
-            "Rank": 37
+            "Rank": 40
         },
         "Yohann Balogun": {
             "Name": "Yohann Balogun",
@@ -1868,9 +1868,9 @@
             "Tags": 0,
             "Last Tagged": 1741107479.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0938_YohannBalogun.jpeg\"><br>Rank: 86<br> Yohann Balogun<br>Tagged by Nixon Pech on 03-04",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0938_YohannBalogun.jpeg\"><br>Rank: 92<br> Yohann Balogun<br>Tagged by Nixon Pech on 03-04",
             "Points": 0,
-            "Rank": 86
+            "Rank": 92
         },
         "Rylee Mason": {
             "Name": "Rylee Mason",
@@ -1884,9 +1884,9 @@
             "Tags": 0,
             "Last Tagged": 1741599239.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_3203_RyleeMason.jpeg\"><br>Rank: 58<br> Rylee Mason<br>Tagged by Haley Jones on 03-10",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_3203_RyleeMason.jpeg\"><br>Rank: 64<br> Rylee Mason<br>Tagged by Haley Jones on 03-10",
             "Points": 0,
-            "Rank": 58
+            "Rank": 64
         },
         "Jasmine Robertson-Zhou": {
             "Name": "Jasmine Robertson-Zhou",
@@ -1900,9 +1900,9 @@
             "Tags": 0,
             "Last Tagged": 1741188780.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 85<br> Jasmine Robertson-Zhou<br>Tagged by Evan Stubbings on 03-05",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 91<br> Jasmine Robertson-Zhou<br>Tagged by Evan Stubbings on 03-05",
             "Points": 0,
-            "Rank": 85
+            "Rank": 91
         },
         "Marissa Lecian": {
             "Name": "Marissa Lecian",
@@ -1916,9 +1916,9 @@
             "Tags": 0,
             "Last Tagged": 1741343159.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_7975_MarissaLecian.jpeg\"><br>Rank: 72<br> Marissa Lecian<br>Tagged by Ashli Cox on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_7975_MarissaLecian.jpeg\"><br>Rank: 78<br> Marissa Lecian<br>Tagged by Ashli Cox on 03-07",
             "Points": 0,
-            "Rank": 72
+            "Rank": 78
         },
         "Jared Mackie": {
             "Name": "Jared Mackie",
@@ -1932,9 +1932,9 @@
             "Tags": 0,
             "Last Tagged": 1741357740.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_8489_JaredMackie.jpeg\"><br>Rank: 62<br> Jared Mackie<br>Tagged by Haley Jones on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_8489_JaredMackie.jpeg\"><br>Rank: 68<br> Jared Mackie<br>Tagged by Haley Jones on 03-07",
             "Points": 0,
-            "Rank": 62
+            "Rank": 68
         },
         "Samantha Rego": {
             "Name": "Samantha Rego",
@@ -1948,9 +1948,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Josh Harris",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Samantha Rego",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Samantha Rego",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Nicholas Kelly": {
             "Name": "Nicholas Kelly",
@@ -1964,9 +1964,9 @@
             "Tags": 2,
             "Last Tagged": 1740752580.0000002,
             "Target": "Keira Watkins",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4411_NicholasKelly.jpeg\"><br> Rank: 13<br>Nicholas Kelly<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4411_NicholasKelly.jpeg\"><br> Rank: 14<br>Nicholas Kelly<br>2 tags",
             "Points": 0,
-            "Rank": 13
+            "Rank": 14
         },
         "Fatima Hassan": {
             "Name": "Fatima Hassan",
@@ -1980,9 +1980,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Madeline Kim",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/Fatimah_IMG_GT.jpeg\"><br> Rank: 43<br>Fatima Hassan",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/Fatimah_IMG_GT.jpeg\"><br> Rank: 45<br>Fatima Hassan",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Xavier Smith": {
             "Name": "Xavier Smith",
@@ -1996,9 +1996,9 @@
             "Tags": 0,
             "Last Tagged": 1741260720.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1839_XavierSmith.jpeg\"><br>Rank: 81<br> Xavier Smith<br>Tagged by Tommy Vuong on 03-06",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1839_XavierSmith.jpeg\"><br>Rank: 87<br> Xavier Smith<br>Tagged by Tommy Vuong on 03-06",
             "Points": 0,
-            "Rank": 81
+            "Rank": 87
         },
         "Joanna Perreault": {
             "Name": "Joanna Perreault",
@@ -2012,9 +2012,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Fatima Hassan",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1717_JoannaPerreault.jpeg\"><br> Rank: 43<br>Joanna Perreault",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1717_JoannaPerreault.jpeg\"><br> Rank: 45<br>Joanna Perreault",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Mateya Baumer": {
             "Name": "Mateya Baumer",
@@ -2028,9 +2028,9 @@
             "Tags": 1,
             "Last Tagged": 1740480600.0000002,
             "Target": "Katie Stubbings",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7595_MateyaBaumer.jpeg\"><br> Rank: 40<br>Mateya Baumer<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7595_MateyaBaumer.jpeg\"><br> Rank: 43<br>Mateya Baumer<br>1 tags",
             "Points": 0,
-            "Rank": 40
+            "Rank": 43
         },
         "Amani Shamoon": {
             "Name": "Amani Shamoon",
@@ -2044,9 +2044,9 @@
             "Tags": 2,
             "Last Tagged": 1741346160.0000002,
             "Target": "Noelani Alegado",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_20240928_230231_315_AmaniShamoon.jpg\"><br> Rank: 10<br>Amani Shamoon<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_20240928_230231_315_AmaniShamoon.jpg\"><br> Rank: 12<br>Amani Shamoon<br>2 tags",
             "Points": 0,
-            "Rank": 10
+            "Rank": 12
         },
         "Parinoor Bal": {
             "Name": "Parinoor Bal",
@@ -2060,9 +2060,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Paris Pitt",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Parinoor Bal",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Parinoor Bal",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Navleen Purewal": {
             "Name": "Navleen Purewal",
@@ -2070,15 +2070,15 @@
             "HandleIG": "navleen.purewal",
             "Photo": "default.png",
             "Tagger": "",
-            "Date": "",
+            "Date": "04-03",
             "Ranking": -1,
             "Alive": true,
-            "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Jesse McCreath",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Navleen Purewal",
+            "Tags": 1,
+            "Last Tagged": 1743673320.0,
+            "Target": "Shaya Venktes",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 17<br>Navleen Purewal<br>1 tags",
             "Points": 0,
-            "Rank": 43
+            "Rank": 17
         },
         "Mia Ewasiuk": {
             "Name": "Mia Ewasiuk",
@@ -2092,9 +2092,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Margeret Sanchez",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/ScreenShot2025-02-16at2.31.16PM_MiaEwasiuk.png\"><br> Rank: 43<br>Mia Ewasiuk",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/ScreenShot2025-02-16at2.31.16PM_MiaEwasiuk.png\"><br> Rank: 45<br>Mia Ewasiuk",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Johnny Xing": {
             "Name": "Johnny Xing",
@@ -2108,9 +2108,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Akshaj Arora",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6505_JohnnyXing.jpeg\"><br> Rank: 43<br>Johnny Xing",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6505_JohnnyXing.jpeg\"><br> Rank: 45<br>Johnny Xing",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Kennedy Grayson": {
             "Name": "Kennedy Grayson",
@@ -2124,9 +2124,9 @@
             "Tags": 0,
             "Last Tagged": 1741005000.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_6385_KennedyGrayson.png\"><br>Rank: 88<br> Kennedy Grayson<br>Tagged by Amirah Kajla on 03-03",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_6385_KennedyGrayson.png\"><br>Rank: 94<br> Kennedy Grayson<br>Tagged by Amirah Kajla on 03-03",
             "Points": 0,
-            "Rank": 88
+            "Rank": 94
         },
         "Amirah Kajla": {
             "Name": "Amirah Kajla",
@@ -2140,9 +2140,9 @@
             "Tags": 1,
             "Last Tagged": 1741005000.0000002,
             "Target": "Johnny Xing",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 33<br>Amirah Kajla<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 36<br>Amirah Kajla<br>1 tags",
             "Points": 0,
-            "Rank": 33
+            "Rank": 36
         },
         "William Pham": {
             "Name": "William Pham",
@@ -2156,9 +2156,9 @@
             "Tags": 0,
             "Last Tagged": 1741694400.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/DSC01414_WilliamPham.jpeg\"><br>Rank: 56<br> William Pham<br>Tagged by Haley Jones on 03-11",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/DSC01414_WilliamPham.jpeg\"><br>Rank: 62<br> William Pham<br>Tagged by Haley Jones on 03-11",
             "Points": 0,
-            "Rank": 56
+            "Rank": 62
         },
         "Aayan Chowdhury": {
             "Name": "Aayan Chowdhury",
@@ -2172,9 +2172,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Jaeden Potter",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3646_AayanChowdhury.jpg\"><br> Rank: 43<br>Aayan Chowdhury",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3646_AayanChowdhury.jpg\"><br> Rank: 45<br>Aayan Chowdhury",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Ulises Romero": {
             "Name": "Ulises Romero",
@@ -2188,9 +2188,9 @@
             "Tags": 0,
             "Last Tagged": 1740739920.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2413_UlisesRomero.jpeg\"><br>Rank: 93<br> Ulises Romero<br>Tagged by Maxim Perreault on 02-28",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2413_UlisesRomero.jpeg\"><br>Rank: 99<br> Ulises Romero<br>Tagged by Maxim Perreault on 02-28",
             "Points": 0,
-            "Rank": 93
+            "Rank": 99
         },
         "Ethan Darby": {
             "Name": "Ethan Darby",
@@ -2204,9 +2204,9 @@
             "Tags": 0,
             "Last Tagged": 1741353480.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2068_EthanDarby.jpeg\"><br>Rank: 63<br> Ethan Darby<br>Tagged by Alex Wates on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2068_EthanDarby.jpeg\"><br>Rank: 69<br> Ethan Darby<br>Tagged by Alex Wates on 03-07",
             "Points": 0,
-            "Rank": 63
+            "Rank": 69
         },
         "Christian Che": {
             "Name": "Christian Che",
@@ -2220,9 +2220,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Jess LaPierre",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Christian Che",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Christian Che",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Makayla Papp": {
             "Name": "Makayla Papp",
@@ -2236,9 +2236,9 @@
             "Tags": 2,
             "Last Tagged": 1741688519.9999998,
             "Target": "Ted Harrison",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9678_MakaylaPapp.jpeg\"><br> Rank: 7<br>Makayla Papp<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9678_MakaylaPapp.jpeg\"><br> Rank: 9<br>Makayla Papp<br>2 tags",
             "Points": 0,
-            "Rank": 7
+            "Rank": 9
         },
         "Keira Watkins": {
             "Name": "Keira Watkins",
@@ -2252,9 +2252,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Ellie Milligan",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4055_KeiraWatkins.jpeg\"><br> Rank: 43<br>Keira Watkins",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4055_KeiraWatkins.jpeg\"><br> Rank: 45<br>Keira Watkins",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Arissa Chowdhury": {
             "Name": "Arissa Chowdhury",
@@ -2268,9 +2268,9 @@
             "Tags": 0,
             "Last Tagged": 1742359080.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/BE429AA2-454E-47A0-9237-1D55BF2D37C4_ArissaChowdhury.jpeg\"><br>Rank: 53<br> Arissa Chowdhury<br>Tagged by Oliver Laporte on 03-19",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/BE429AA2-454E-47A0-9237-1D55BF2D37C4_ArissaChowdhury.jpeg\"><br>Rank: 59<br> Arissa Chowdhury<br>Tagged by Oliver Laporte on 03-19",
             "Points": 0,
-            "Rank": 53
+            "Rank": 59
         },
         "Harbeen Sidhu": {
             "Name": "Harbeen Sidhu",
@@ -2284,9 +2284,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Eugene Lee",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Harbeen Sidhu",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Harbeen Sidhu",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Kyleigh Pope": {
             "Name": "Kyleigh Pope",
@@ -2300,9 +2300,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Wyatt Weir",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6260_KyleighPope.jpeg\"><br> Rank: 43<br>Kyleigh Pope",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6260_KyleighPope.jpeg\"><br> Rank: 45<br>Kyleigh Pope",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Grace Simmons": {
             "Name": "Grace Simmons",
@@ -2316,9 +2316,9 @@
             "Tags": 0,
             "Last Tagged": 1741352340.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_8057_GraceSimmons.jpeg\"><br>Rank: 66<br> Grace Simmons<br>Tagged by Cora Walshe on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_8057_GraceSimmons.jpeg\"><br>Rank: 72<br> Grace Simmons<br>Tagged by Cora Walshe on 03-07",
             "Points": 0,
-            "Rank": 66
+            "Rank": 72
         },
         "Jaeden Potter": {
             "Name": "Jaeden Potter",
@@ -2332,9 +2332,9 @@
             "Tags": 1,
             "Last Tagged": 1741119839.9999998,
             "Target": "Simran Rayat",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 31<br>Jaeden Potter<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 34<br>Jaeden Potter<br>1 tags",
             "Points": 0,
-            "Rank": 31
+            "Rank": 34
         },
         "Paula Jerusalem": {
             "Name": "Paula Jerusalem",
@@ -2348,9 +2348,9 @@
             "Tags": 1,
             "Last Tagged": 1741348980.0,
             "Target": "Keira Kelly",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 27<br>Paula Jerusalem<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 30<br>Paula Jerusalem<br>1 tags",
             "Points": 0,
-            "Rank": 27
+            "Rank": 30
         },
         "Bella Fuller": {
             "Name": "Bella Fuller",
@@ -2364,9 +2364,9 @@
             "Tags": 0,
             "Last Tagged": 1741260840.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 80<br> Bella Fuller<br>Tagged by Nixon Pech on 03-06",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 86<br> Bella Fuller<br>Tagged by Nixon Pech on 03-06",
             "Points": 0,
-            "Rank": 80
+            "Rank": 86
         },
         "Jocelyn Roberts": {
             "Name": "Jocelyn Roberts",
@@ -2380,9 +2380,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Nate Hyland",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9559_JocelynRoberts.jpeg\"><br> Rank: 43<br>Jocelyn Roberts",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9559_JocelynRoberts.jpeg\"><br> Rank: 45<br>Jocelyn Roberts",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Nadine Fernandes": {
             "Name": "Nadine Fernandes",
@@ -2396,25 +2396,25 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Tommy Vuong",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Nadine Fernandes",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Nadine Fernandes",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Orget Murati": {
             "Name": "Orget Murati",
             "Email": "o.murati@surreyschools.ca",
             "HandleIG": "Orget_m",
             "Photo": "IMG_1279_OrgetMurati.png",
-            "Tagger": "",
-            "Date": "",
+            "Tagger": "Aron Yu",
+            "Date": "04-02",
             "Ranking": -1,
-            "Alive": true,
+            "Alive": false,
             "Tags": 0,
-            "Last Tagged": 0,
-            "Target": "Amaan Ali",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1279_OrgetMurati.png\"><br> Rank: 43<br>Orget Murati",
+            "Last Tagged": 1743560399.9999998,
+            "Target": "--",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1279_OrgetMurati.png\"><br>Rank: 57<br> Orget Murati<br>Tagged by Aron Yu on 04-02",
             "Points": 0,
-            "Rank": 43
+            "Rank": 57
         },
         "Jacob Dotto": {
             "Name": "Jacob Dotto",
@@ -2428,9 +2428,9 @@
             "Tags": 0,
             "Last Tagged": 1740480600.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/inbound6323714237634980298_JacobDotto.jpg\"><br>Rank: 105<br> Jacob Dotto<br>Tagged by Mateya Baumer on 02-25",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/inbound6323714237634980298_JacobDotto.jpg\"><br>Rank: 111<br> Jacob Dotto<br>Tagged by Mateya Baumer on 02-25",
             "Points": 0,
-            "Rank": 105
+            "Rank": 111
         },
         "Tin Nguyen": {
             "Name": "Tin Nguyen",
@@ -2444,9 +2444,9 @@
             "Tags": 0,
             "Last Tagged": 1741775100.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2892_TinNguyen.jpeg\"><br>Rank: 55<br> Tin Nguyen<br>Tagged by Keira Kelly on 03-12",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2892_TinNguyen.jpeg\"><br>Rank: 61<br> Tin Nguyen<br>Tagged by Keira Kelly on 03-12",
             "Points": 0,
-            "Rank": 55
+            "Rank": 61
         },
         "Kayla Norris": {
             "Name": "Kayla Norris",
@@ -2460,9 +2460,9 @@
             "Tags": 0,
             "Last Tagged": 1740489600.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/16F11CE8-7658-4094-83FB-B3291F009199_KaylaNorris.jpeg\"><br>Rank: 103<br> Kayla Norris<br>Tagged by Jess LaPierre on 02-25",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/16F11CE8-7658-4094-83FB-B3291F009199_KaylaNorris.jpeg\"><br>Rank: 109<br> Kayla Norris<br>Tagged by Jess LaPierre on 02-25",
             "Points": 0,
-            "Rank": 103
+            "Rank": 109
         },
         "Ciara Chapman": {
             "Name": "Ciara Chapman",
@@ -2476,9 +2476,9 @@
             "Tags": 0,
             "Last Tagged": 1741352820.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0908_CiaraChapman.jpeg\"><br>Rank: 65<br> Ciara Chapman<br>Tagged by Alexei Lobaznyuk on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_0908_CiaraChapman.jpeg\"><br>Rank: 71<br> Ciara Chapman<br>Tagged by Alexei Lobaznyuk on 03-07",
             "Points": 0,
-            "Rank": 65
+            "Rank": 71
         },
         "Owen Bolenback": {
             "Name": "Owen Bolenback",
@@ -2492,9 +2492,9 @@
             "Tags": 0,
             "Last Tagged": 1741340459.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 73<br> Owen Bolenback<br>Tagged by Hudson Wilson on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 79<br> Owen Bolenback<br>Tagged by Hudson Wilson on 03-07",
             "Points": 0,
-            "Rank": 73
+            "Rank": 79
         },
         "Meerub Riaz": {
             "Name": "Meerub Riaz",
@@ -2508,9 +2508,9 @@
             "Tags": 0,
             "Last Tagged": 1740664800.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 95<br> Meerub Riaz<br>Tagged by Kiana Kelly on 02-27",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 101<br> Meerub Riaz<br>Tagged by Kiana Kelly on 02-27",
             "Points": 0,
-            "Rank": 95
+            "Rank": 101
         },
         "Josie Soti": {
             "Name": "Josie Soti",
@@ -2524,9 +2524,9 @@
             "Tags": 0,
             "Last Tagged": 1741353240.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 64<br> Josie Soti<br>Tagged by Sophie Baker on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 70<br> Josie Soti<br>Tagged by Sophie Baker on 03-07",
             "Points": 0,
-            "Rank": 64
+            "Rank": 70
         },
         "Connor Clifford": {
             "Name": "Connor Clifford",
@@ -2540,9 +2540,9 @@
             "Tags": 0,
             "Last Tagged": 1740654900.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_6757_ConnorClifford.jpg\"><br>Rank: 97<br> Connor Clifford<br>Tagged by Arjun Randhawa on 02-27",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_6757_ConnorClifford.jpg\"><br>Rank: 103<br> Connor Clifford<br>Tagged by Arjun Randhawa on 02-27",
             "Points": 0,
-            "Rank": 97
+            "Rank": 103
         },
         "Colton Plank": {
             "Name": "Colton Plank",
@@ -2556,9 +2556,9 @@
             "Tags": 0,
             "Last Tagged": 1741598580.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1237_ColtonPlank.jpeg\"><br>Rank: 60<br> Colton Plank<br>Tagged by Alexis Pascual on 03-10",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_1237_ColtonPlank.jpeg\"><br>Rank: 66<br> Colton Plank<br>Tagged by Alexis Pascual on 03-10",
             "Points": 0,
-            "Rank": 60
+            "Rank": 66
         },
         "Olivia Osborne": {
             "Name": "Olivia Osborne",
@@ -2572,9 +2572,9 @@
             "Tags": 0,
             "Last Tagged": 1741694400.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_6075_OliviaOsborne.jpeg\"><br>Rank: 56<br> Olivia Osborne<br>Tagged by Quinn Doiron on 03-11",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_6075_OliviaOsborne.jpeg\"><br>Rank: 62<br> Olivia Osborne<br>Tagged by Quinn Doiron on 03-11",
             "Points": 0,
-            "Rank": 56
+            "Rank": 62
         },
         "Milla Noriega": {
             "Name": "Milla Noriega",
@@ -2588,9 +2588,9 @@
             "Tags": 0,
             "Last Tagged": 1741259039.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_20250221_153640577~2_MillaNoriega.jpg\"><br>Rank: 82<br> Milla Noriega<br>Tagged by Armaani Kaila on 03-06",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_20250221_153640577~2_MillaNoriega.jpg\"><br>Rank: 88<br> Milla Noriega<br>Tagged by Armaani Kaila on 03-06",
             "Points": 0,
-            "Rank": 82
+            "Rank": 88
         },
         "Wilson McLean": {
             "Name": "Wilson McLean",
@@ -2604,9 +2604,9 @@
             "Tags": 1,
             "Last Tagged": 1741352820.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 48<br> Wilson McLean<br>Tagged by Hannah Dela Torre on 03-07<br>1 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 50<br> Wilson McLean<br>Tagged by Hannah Dela Torre on 03-07<br>1 tags",
             "Points": 0,
-            "Rank": 48
+            "Rank": 50
         },
         "Samantha Crowder": {
             "Name": "Samantha Crowder",
@@ -2620,9 +2620,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Adam Bennett",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3439_SamanthaCrowder.png\"><br> Rank: 43<br>Samantha Crowder",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_3439_SamanthaCrowder.png\"><br> Rank: 45<br>Samantha Crowder",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Alex Wates": {
             "Name": "Alex Wates",
@@ -2636,9 +2636,9 @@
             "Tags": 1,
             "Last Tagged": 1741353480.0000002,
             "Target": "Anuree Johnston",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 23<br>Alex Wates<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 26<br>Alex Wates<br>1 tags",
             "Points": 0,
-            "Rank": 23
+            "Rank": 26
         },
         "Kali Thompson": {
             "Name": "Kali Thompson",
@@ -2652,9 +2652,9 @@
             "Tags": 0,
             "Last Tagged": 1740742320.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/inbound5233087301352748805_KaliThompson.jpg\"><br>Rank: 92<br> Kali Thompson<br>Tagged by Scott Larsen on 02-28",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/inbound5233087301352748805_KaliThompson.jpg\"><br>Rank: 98<br> Kali Thompson<br>Tagged by Scott Larsen on 02-28",
             "Points": 0,
-            "Rank": 92
+            "Rank": 98
         },
         "Damon Warwick": {
             "Name": "Damon Warwick",
@@ -2668,9 +2668,9 @@
             "Tags": 0,
             "Last Tagged": 1741598820.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/C1B5AB23-8A88-4E76-A1F3-7BBDE670BBCB_DamonWarwick.jpeg\"><br>Rank: 59<br> Damon Warwick<br>Tagged by Markus Laureano on 03-10",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/C1B5AB23-8A88-4E76-A1F3-7BBDE670BBCB_DamonWarwick.jpeg\"><br>Rank: 65<br> Damon Warwick<br>Tagged by Markus Laureano on 03-10",
             "Points": 0,
-            "Rank": 59
+            "Rank": 65
         },
         "Noelani Alegado": {
             "Name": "Noelani Alegado",
@@ -2684,9 +2684,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Analisa Festing",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6491_NoelaniAlegado.jpeg\"><br> Rank: 43<br>Noelani Alegado",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6491_NoelaniAlegado.jpeg\"><br> Rank: 45<br>Noelani Alegado",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Sadie Barrell": {
             "Name": "Sadie Barrell",
@@ -2700,9 +2700,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Sean Kerbrat",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2620_SadieBarrell.jpeg\"><br> Rank: 43<br>Sadie Barrell",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_2620_SadieBarrell.jpeg\"><br> Rank: 45<br>Sadie Barrell",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Quinn Doiron": {
             "Name": "Quinn Doiron",
@@ -2716,9 +2716,9 @@
             "Tags": 1,
             "Last Tagged": 1741694400.0,
             "Target": "Harry Wheaton",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5520_QuinnDoiron.png\"><br> Rank: 19<br>Quinn Doiron<br>1 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5520_QuinnDoiron.png\"><br> Rank: 22<br>Quinn Doiron<br>1 tags",
             "Points": 0,
-            "Rank": 19
+            "Rank": 22
         },
         "Gurjas Dhanda": {
             "Name": "Gurjas Dhanda",
@@ -2732,9 +2732,9 @@
             "Tags": 0,
             "Last Tagged": 1741258980.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 83<br> Gurjas Dhanda<br>Tagged by Cora Walshe on 03-06",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 89<br> Gurjas Dhanda<br>Tagged by Cora Walshe on 03-06",
             "Points": 0,
-            "Rank": 83
+            "Rank": 89
         },
         "Woosung Lee": {
             "Name": "Woosung Lee",
@@ -2748,9 +2748,9 @@
             "Tags": 0,
             "Last Tagged": 1740400020.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/20250222_235236_WoosungLee.jpg\"><br>Rank: 107<br> Woosung Lee<br>Tagged by Aron Yu on 02-24",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/20250222_235236_WoosungLee.jpg\"><br>Rank: 113<br> Woosung Lee<br>Tagged by Aron Yu on 02-24",
             "Points": 0,
-            "Rank": 107
+            "Rank": 113
         },
         "Ryan So": {
             "Name": "Ryan So",
@@ -2764,9 +2764,9 @@
             "Tags": 0,
             "Last Tagged": 1743426420.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 52<br> Ryan So<br>Tagged by Adam Bennett on 03-31",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 58<br> Ryan So<br>Tagged by Adam Bennett on 03-31",
             "Points": 0,
-            "Rank": 52
+            "Rank": 58
         },
         "Carter Kons": {
             "Name": "Carter Kons",
@@ -2780,9 +2780,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Roxana Paredes",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4447_CarterKons.jpeg\"><br> Rank: 43<br>Carter Kons",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_4447_CarterKons.jpeg\"><br> Rank: 45<br>Carter Kons",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Ivanilson Lopes": {
             "Name": "Ivanilson Lopes",
@@ -2796,9 +2796,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Kyleigh Pope",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/inbound570362221137133111_IvanilsonLopes.jpg\"><br> Rank: 43<br>Ivanilson Lopes",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/inbound570362221137133111_IvanilsonLopes.jpg\"><br> Rank: 45<br>Ivanilson Lopes",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Rich Kiel Caro": {
             "Name": "Rich Kiel Caro",
@@ -2812,9 +2812,9 @@
             "Tags": 0,
             "Last Tagged": 1740395160.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 108<br> Rich Kiel Caro<br>Tagged by Jayde Forster on 02-24",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 114<br> Rich Kiel Caro<br>Tagged by Jayde Forster on 02-24",
             "Points": 0,
-            "Rank": 108
+            "Rank": 114
         },
         "Adiv Singh": {
             "Name": "Adiv Singh",
@@ -2828,9 +2828,9 @@
             "Tags": 0,
             "Last Tagged": 1740657600.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/Adiv_IMG_GT.jpg\"><br>Rank: 96<br> Adiv Singh<br>Tagged by Riya Bhangu on 02-27",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/Adiv_IMG_GT.jpg\"><br>Rank: 102<br> Adiv Singh<br>Tagged by Riya Bhangu on 02-27",
             "Points": 0,
-            "Rank": 96
+            "Rank": 102
         },
         "Ryan Edwards": {
             "Name": "Ryan Edwards",
@@ -2844,9 +2844,9 @@
             "Tags": 0,
             "Last Tagged": 1740568019.9999998,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 100<br> Ryan Edwards<br>Tagged by Lauren MacNeil on 02-26",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 106<br> Ryan Edwards<br>Tagged by Lauren MacNeil on 02-26",
             "Points": 0,
-            "Rank": 100
+            "Rank": 106
         },
         "Margeret Sanchez": {
             "Name": "Margeret Sanchez",
@@ -2860,9 +2860,9 @@
             "Tags": 0,
             "Last Tagged": 0,
             "Target": "Sydney Marshall",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 43<br>Margeret Sanchez",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 45<br>Margeret Sanchez",
             "Points": 0,
-            "Rank": 43
+            "Rank": 45
         },
         "Minh Triet Le": {
             "Name": "Minh Triet Le",
@@ -2876,9 +2876,9 @@
             "Tags": 0,
             "Last Tagged": 1741348080.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 70<br> Minh Triet Le<br>Tagged by Alex Skuce on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 76<br> Minh Triet Le<br>Tagged by Alex Skuce on 03-07",
             "Points": 0,
-            "Rank": 70
+            "Rank": 76
         },
         "Francesco Cioffi": {
             "Name": "Francesco Cioffi",
@@ -2892,9 +2892,9 @@
             "Tags": 0,
             "Last Tagged": 1740503340.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 102<br> Francesco Cioffi<br>Tagged by Alex Skuce on 02-25",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 108<br> Francesco Cioffi<br>Tagged by Alex Skuce on 02-25",
             "Points": 0,
-            "Rank": 102
+            "Rank": 108
         },
         "Sarmed Bek": {
             "Name": "Sarmed Bek",
@@ -2908,9 +2908,9 @@
             "Tags": 0,
             "Last Tagged": 1743508800.0,
             "Target": "Maisie St James",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 42<br>Sarmed Bek",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 44<br>Sarmed Bek",
             "Points": 0,
-            "Rank": 42
+            "Rank": 44
         },
         "Avery Walshe": {
             "Name": "Avery Walshe",
@@ -2924,9 +2924,9 @@
             "Tags": 2,
             "Last Tagged": 1741849740.0000002,
             "Target": "Bhargavi Aggarwal",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 6<br>Avery Walshe<br>2 tags",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 8<br>Avery Walshe<br>2 tags",
             "Points": 0,
-            "Rank": 6
+            "Rank": 8
         },
         "Carter Oakley": {
             "Name": "Carter Oakley",
@@ -2940,9 +2940,9 @@
             "Tags": 0,
             "Last Tagged": 1741318800.0000002,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 75<br> Carter Oakley<br>Tagged by Avery Walshe on 03-07",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/default.png\"><br>Rank: 81<br> Carter Oakley<br>Tagged by Avery Walshe on 03-07",
             "Points": 0,
-            "Rank": 75
+            "Rank": 81
         }
     }
 }
