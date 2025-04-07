@@ -16,17 +16,12 @@ with open(json_file) as json_data:
             cur["email"] = players[name]["Email"]
             cur["message"] = f"""
 Hi <at>{cur["email"]}</at>, <br>
-Nice job surviving so far! <br><br>
+Targets are shuffling!
 
 Your new target is {players[name]["Target"]}. <br>
-You may not tag any pervious targets you have had. <br><br>
+You may not tag any previous targets you have had. <br><br>
 
-Here are the <a href="https://salishgradtag.ca/2025/rules">rules</a>.
-There have been some minor changes to account for special cases.
-
-If you have questions or want to submit a tag, message myself, Logan Singh, or @salishgradtag on instagram.
-<br><br>
-Thanks for playing and good luck!
+Good Luck!
 """
             messages.append(cur)
         

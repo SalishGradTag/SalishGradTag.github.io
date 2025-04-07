@@ -54,7 +54,7 @@ for index, row in game_log.iterrows():
     elif (command=="Shuffle"):
         names.sort(key=lambda x:players[x]["Alive"], reverse=True)
         a = list(range(0,num))
-        print()
+        print(names)
         random.Random(p1).shuffle(a)
         for i in range(0, num):
             #print(a[i])
