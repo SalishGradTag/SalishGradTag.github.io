@@ -15,12 +15,8 @@ with open(json_file) as json_data:
             cur = {}
             cur["email"] = players[name]["Email"]
             cur["message"] = f"""
-Hi <at>{cur["email"]}</at>, <br>
-Targets are shuffling!
-
-Your new target is {players[name]["Target"]}. <br>
-You may not tag any previous targets you have had. <br><br>
-
+Hello <at>{cur["email"]}</at>, <br>
+Targets are off! You may tag anyone still in the game if they are not immune. <br><br>
 Good Luck!
 """
             messages.append(cur)
