@@ -1,14 +1,14 @@
 {
-    "num": 3,
+    "num": 2,
     "names": [
         "Hudson Wilson",
         "Markus Laureano",
         "Devon Martinez",
         "Cora Walshe",
         "Avery Walshe",
-        "Aron Yu",
         "Harbeen Sidhu",
         "Akshaj Arora",
+        "Aron Yu",
         "Amani Shamoon",
         "Sadie Swinimer",
         "Samantha Crowder",
@@ -277,16 +277,16 @@
             "Email": "aron.yu@surreyschools.ca",
             "HandleIG": "aronyuuu",
             "Photo": "IMG_7119_AronYu.jpeg",
-            "Tagger": "",
-            "Date": "04-11",
+            "Tagger": "Devon Martinez",
+            "Date": "05-28",
             "Ranking": -1,
-            "Alive": true,
+            "Alive": false,
             "Tags": 4,
-            "Last Tagged": 1748495008.9353154,
-            "Target": "Markus Laureano",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_7119_AronYu.jpeg\"><br> Rank: 6<br>Aron Yu<br>4 tags",
-            "Points": 97.8774182328168,
-            "Rank": 6
+            "Last Tagged": 1748428260.0000002,
+            "Target": "--",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_7119_AronYu.jpeg\"><br>Rank: 8<br> Aron Yu<br>Tagged by Devon Martinez on 05-28<br>4 tags",
+            "Points": 97.10486111111388,
+            "Rank": 8
         },
         "Makaylah Brathwaite": {
             "Name": "Makaylah Brathwaite",
@@ -554,10 +554,10 @@
             "Ranking": -1,
             "Alive": true,
             "Tags": 6,
-            "Last Tagged": 1748495008.9353273,
+            "Last Tagged": 1748495426.2637107,
             "Target": "Akshaj Arora",
             "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_9116_CoraWalshe.jpeg\"><br> Rank: 4<br>Cora Walshe<br>6 tags",
-            "Points": 99.87741823295477,
+            "Points": 99.88224842257797,
             "Rank": 4
         },
         "Ted Harrison": {
@@ -1228,9 +1228,9 @@
             "Tags": 5,
             "Last Tagged": 1748424720.0,
             "Target": "--",
-            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2306_AkshajArora.jpeg\"><br>Rank: 8<br> Akshaj Arora<br>Tagged by Hudson Wilson on 05-28<br>5 tags",
+            "HTML": "<img style=\"width:100px; position:absolute\" src=\"../Images/TaggedStamp.png\"><img style=\"width:100px;\" src=\"../photos/IMG_2306_AkshajArora.jpeg\"><br>Rank: 7<br> Akshaj Arora<br>Tagged by Hudson Wilson on 05-28<br>5 tags",
             "Points": 98.06388888888888,
-            "Rank": 8
+            "Rank": 7
         },
         "Sadie Swinimer": {
             "Name": "Sadie Swinimer",
@@ -1670,14 +1670,14 @@
             "HandleIG": "devon_gm",
             "Photo": "IMG_6746_DevonMartinez.jpeg",
             "Tagger": "",
-            "Date": "05-27",
+            "Date": "05-28",
             "Ranking": -1,
             "Alive": true,
-            "Tags": 6,
-            "Last Tagged": 1748495008.9353724,
-            "Target": "Harbeen Sidhu",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6746_DevonMartinez.jpeg\"><br> Rank: 3<br>Devon Martinez<br>6 tags",
-            "Points": 99.8774182334763,
+            "Tags": 7,
+            "Last Tagged": 1748495426.263746,
+            "Target": "Markus Laureano",
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_6746_DevonMartinez.jpeg\"><br> Rank: 3<br>Devon Martinez<br>7 tags",
+            "Points": 100.88224842298638,
             "Rank": 3
         },
         "Madelyn Vuilleumier": {
@@ -1722,10 +1722,10 @@
             "Ranking": -1,
             "Alive": true,
             "Tags": 12,
-            "Last Tagged": 1748495008.9353752,
+            "Last Tagged": 1748495426.2637491,
             "Target": "Keira Watkins",
             "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_1976_HudsonWilson.jpeg\"><br> Rank: 1<br>Hudson Wilson<br>12 tags",
-            "Points": 105.87741823350942,
+            "Points": 105.88224842302225,
             "Rank": 1
         },
         "Harrison Bartley": {
@@ -1754,10 +1754,10 @@
             "Ranking": -1,
             "Alive": true,
             "Tags": 7,
-            "Last Tagged": 1748495008.9353771,
+            "Last Tagged": 1748495426.263751,
             "Target": "Joanna Perreault",
             "HTML": "<img style=\"width:100px;\" src=\"../photos/IMG_5964_MarkusLaureano.jpeg\"><br> Rank: 2<br>Markus Laureano<br>7 tags",
-            "Points": 100.87741823353149,
+            "Points": 100.88224842304433,
             "Rank": 2
         },
         "Liam Quan": {
@@ -2282,11 +2282,11 @@
             "Ranking": -1,
             "Alive": true,
             "Tags": 1,
-            "Last Tagged": 1748495008.9353926,
+            "Last Tagged": 1748495426.2637656,
             "Target": "Samantha Crowder",
-            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 7<br>Harbeen Sidhu<br>1 tags",
-            "Points": 94.87741823371086,
-            "Rank": 7
+            "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 6<br>Harbeen Sidhu<br>1 tags",
+            "Points": 94.88224842321266,
+            "Rank": 6
         },
         "Kyleigh Pope": {
             "Name": "Kyleigh Pope",
@@ -2922,10 +2922,10 @@
             "Ranking": -1,
             "Alive": true,
             "Tags": 5,
-            "Last Tagged": 1748495008.935407,
+            "Last Tagged": 1748495426.2637796,
             "Target": "Navleen Purewal",
             "HTML": "<img style=\"width:100px;\" src=\"../photos/default.png\"><br> Rank: 5<br>Avery Walshe<br>5 tags",
-            "Points": 98.87741823387643,
+            "Points": 98.88224842337547,
             "Rank": 5
         },
         "Carter Oakley": {
