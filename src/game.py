@@ -3,6 +3,7 @@ import json
 import urllib.parse
 import math
 import os
+import time
 
 import pandas as pd
 
@@ -46,11 +47,10 @@ for index, row in game_log.iterrows():
     p1 = row["Para1"]
     p2 = row["Para2"]
     date = row["Date"]
-    time = row["Unix"]
+    unix = row["Unix"]
     if (command=="Point"):
         players[p1]["Tags"]+=1
-        players[p1]["Last Tagged"] = time
-        
+        players[p1]["Last Tagged"] = unix
     elif (command=="Shuffle"):
         names.sort(key=lambda x:players[x]["Alive"], reverse=True)
         a = list(range(0,num))
@@ -64,10 +64,10 @@ for index, row in game_log.iterrows():
 
     elif (command=="Tag"):
         players[p1]["Tags"]+=1
-        players[p1]["Last Tagged"] = time
+        players[p1]["Last Tagged"] =unix
         players[p1]["Date"] = str(date)[5:10]
         players[p2]["Alive"] = False
-        players[p2]["Last Tagged"] = time
+        players[p2]["Last Tagged"] =unix
         players[p2]["Date"] = str(date)[5:10]
 
         players[p2]["Tagger"] = p1
@@ -81,10 +81,18 @@ for index, row in game_log.iterrows():
     elif (command=="Remove"):
         del players[p1]
         names = list(filter(lambda a: a != p1, names))
+
 # Stable Sort
+for name in names:
+    if players[name]["Alive"]:
+        players[name]["Last Tagged"] = time.time()
+    players[name]["Points"] = (players[name]["Last Tagged"] - 1740384000) / 86400
+    players[name]["Points"] += players[name]["Tags"]
+
 names.sort(key=lambda x:players[x]["Last Tagged"],reverse=True)
-names.sort(key=lambda x:players[x]["Tags"],reverse=True)
+names.sort(key=lambda x:players[x]["Points"],reverse=True)
 names.sort(key=lambda x:players[x]["Alive"],reverse=True)
+
 
 rank = 0
 
