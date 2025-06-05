@@ -125,6 +125,6 @@ json_data = {
     "players" : players,
 }
 
-with open('src/players.json', 'w', encoding='utf-8') as f:
+with open('src/players2.json', 'w', encoding='utf-8') as f:
     json.dump(json_data, f, ensure_ascii=False, indent=4)
     
